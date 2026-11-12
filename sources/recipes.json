@@ -1,0 +1,6534 @@
+{
+  "dotlessi": {
+    "codepoint": "U+0131",
+    "width": 193,
+    "components": null,
+    "inherit": [
+      "uni0069"
+    ]
+  },
+  "uni0237": {
+    "codepoint": "U+0237",
+    "width": 202,
+    "components": null,
+    "inherit": [
+      "uni006A"
+    ]
+  },
+  "gravecomb": {
+    "codepoint": "U+0300",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "gravecomb.case": {
+    "codepoint": null,
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "acutecomb": {
+    "codepoint": "U+0301",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "acutecomb.case": {
+    "codepoint": null,
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "circumflexcomb": {
+    "codepoint": "U+0302",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "circumflexcomb.case": {
+    "codepoint": null,
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "tildecomb": {
+    "codepoint": "U+0303",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "tildecomb.case": {
+    "codepoint": null,
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "macroncomb": {
+    "codepoint": "U+0304",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "macroncomb.case": {
+    "codepoint": null,
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "brevecomb": {
+    "codepoint": "U+0306",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "brevecomb.case": {
+    "codepoint": null,
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "dotaccentcomb": {
+    "codepoint": "U+0307",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "dotaccentcomb.case": {
+    "codepoint": null,
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "dieresiscomb": {
+    "codepoint": "U+0308",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "dieresiscomb.case": {
+    "codepoint": null,
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "ringcomb": {
+    "codepoint": "U+030A",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "ringcomb.case": {
+    "codepoint": null,
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "hungarumlautcomb": {
+    "codepoint": "U+030B",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "hungarumlautcomb.case": {
+    "codepoint": null,
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "caroncomb": {
+    "codepoint": "U+030C",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "caroncomb.case": {
+    "codepoint": null,
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "commaaccentcomb": {
+    "codepoint": "U+0326",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "cedillacomb": {
+    "codepoint": "U+0327",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "ogonekcomb": {
+    "codepoint": "U+0328",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "caroncomb.alt": {
+    "codepoint": null,
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "commaaccentcomb.above": {
+    "codepoint": null,
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "dieresis": {
+    "codepoint": "U+00A8",
+    "width": 390,
+    "components": [
+      [
+        "dieresiscomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          195,
+          570
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "macron": {
+    "codepoint": "U+00AF",
+    "width": 390,
+    "components": [
+      [
+        "macroncomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          195,
+          570
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "acute": {
+    "codepoint": "U+00B4",
+    "width": 390,
+    "components": [
+      [
+        "acutecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          195,
+          570
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "cedilla": {
+    "codepoint": "U+00B8",
+    "width": 390,
+    "components": [
+      [
+        "cedillacomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          195,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "circumflex": {
+    "codepoint": "U+02C6",
+    "width": 390,
+    "components": [
+      [
+        "circumflexcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          195,
+          570
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "caron": {
+    "codepoint": "U+02C7",
+    "width": 390,
+    "components": [
+      [
+        "caroncomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          195,
+          570
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "breve": {
+    "codepoint": "U+02D8",
+    "width": 390,
+    "components": [
+      [
+        "brevecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          195,
+          570
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "dotaccent": {
+    "codepoint": "U+02D9",
+    "width": 390,
+    "components": [
+      [
+        "dotaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          195,
+          570
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "ring": {
+    "codepoint": "U+02DA",
+    "width": 390,
+    "components": [
+      [
+        "ringcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          195,
+          570
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "ogonek": {
+    "codepoint": "U+02DB",
+    "width": 390,
+    "components": [
+      [
+        "ogonekcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          195,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "tilde": {
+    "codepoint": "U+02DC",
+    "width": 390,
+    "components": [
+      [
+        "tildecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          195,
+          570
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "hungarumlaut": {
+    "codepoint": "U+02DD",
+    "width": 390,
+    "components": [
+      [
+        "hungarumlautcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          195,
+          570
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "AE": {
+    "codepoint": "U+00C6",
+    "width": 1050,
+    "components": null,
+    "inherit": [
+      "uni0041",
+      "uni0045"
+    ]
+  },
+  "ae": {
+    "codepoint": "U+00E6",
+    "width": 710,
+    "components": null,
+    "inherit": [
+      "uni0061",
+      "uni0065"
+    ]
+  },
+  "OE": {
+    "codepoint": "U+0152",
+    "width": 1035,
+    "components": null,
+    "inherit": [
+      "uni004F",
+      "uni0045"
+    ]
+  },
+  "oe": {
+    "codepoint": "U+0153",
+    "width": 710,
+    "components": null,
+    "inherit": [
+      "uni006F",
+      "uni0065"
+    ]
+  },
+  "Oslash": {
+    "codepoint": "U+00D8",
+    "width": 717,
+    "components": null,
+    "inherit": [
+      "uni004F"
+    ]
+  },
+  "oslash": {
+    "codepoint": "U+00F8",
+    "width": 416,
+    "components": null,
+    "inherit": [
+      "uni006F"
+    ]
+  },
+  "Eth": {
+    "codepoint": "U+00D0",
+    "width": 815,
+    "components": null,
+    "inherit": [
+      "uni0044"
+    ]
+  },
+  "Dcroat": {
+    "codepoint": "U+0110",
+    "width": 815,
+    "components": null,
+    "inherit": [
+      "uni0044"
+    ]
+  },
+  "dcroat": {
+    "codepoint": "U+0111",
+    "width": 457,
+    "components": null,
+    "inherit": [
+      "uni0064"
+    ]
+  },
+  "Hbar": {
+    "codepoint": "U+0126",
+    "width": 651,
+    "components": null,
+    "inherit": [
+      "uni0048"
+    ]
+  },
+  "hbar": {
+    "codepoint": "U+0127",
+    "width": 439,
+    "components": null,
+    "inherit": [
+      "uni0068"
+    ]
+  },
+  "Lslash": {
+    "codepoint": "U+0141",
+    "width": 653,
+    "components": null,
+    "inherit": [
+      "uni004C"
+    ]
+  },
+  "lslash": {
+    "codepoint": "U+0142",
+    "width": 193,
+    "components": null,
+    "inherit": [
+      "uni006C"
+    ]
+  },
+  "Thorn": {
+    "codepoint": "U+00DE",
+    "width": 495,
+    "components": null,
+    "inherit": [
+      "uni0050"
+    ]
+  },
+  "thorn": {
+    "codepoint": "U+00FE",
+    "width": 440,
+    "components": null,
+    "inherit": [
+      "uni0070"
+    ]
+  },
+  "eth": {
+    "codepoint": "U+00F0",
+    "width": 510,
+    "components": null,
+    "inherit": [
+      "uni0064"
+    ]
+  },
+  "germandbls": {
+    "codepoint": "U+00DF",
+    "width": 530,
+    "components": null,
+    "inherit": [
+      "uni0066",
+      "uni0073"
+    ]
+  },
+  "uni1E9E": {
+    "codepoint": "U+1E9E",
+    "width": 610,
+    "components": null,
+    "inherit": [
+      "uni0042"
+    ]
+  },
+  "ordfeminine": {
+    "codepoint": "U+00AA",
+    "width": 320,
+    "components": [
+      [
+        "uni0061",
+        [
+          0.63,
+          0,
+          0,
+          0.63,
+          30,
+          395
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "ordmasculine": {
+    "codepoint": "U+00BA",
+    "width": 320,
+    "components": [
+      [
+        "uni006F",
+        [
+          0.63,
+          0,
+          0,
+          0.63,
+          30,
+          395
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "Agrave": {
+    "codepoint": "U+00C0",
+    "width": 1052,
+    "components": [
+      [
+        "uni0041",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "gravecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          722.051282051282,
+          862.62158203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0041"
+    ]
+  },
+  "Aacute": {
+    "codepoint": "U+00C1",
+    "width": 1052,
+    "components": [
+      [
+        "uni0041",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          722.051282051282,
+          862.62158203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0041"
+    ]
+  },
+  "Acircumflex": {
+    "codepoint": "U+00C2",
+    "width": 1052,
+    "components": [
+      [
+        "uni0041",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "circumflexcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          722.051282051282,
+          862.62158203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0041"
+    ]
+  },
+  "Atilde": {
+    "codepoint": "U+00C3",
+    "width": 1052,
+    "components": [
+      [
+        "uni0041",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "tildecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          722.051282051282,
+          862.62158203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0041"
+    ]
+  },
+  "Adieresis": {
+    "codepoint": "U+00C4",
+    "width": 1052,
+    "components": [
+      [
+        "uni0041",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dieresiscomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          722.051282051282,
+          862.62158203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0041"
+    ]
+  },
+  "Aring": {
+    "codepoint": "U+00C5",
+    "width": 1052,
+    "components": [
+      [
+        "uni0041",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "ringcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          722.051282051282,
+          862.62158203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0041"
+    ]
+  },
+  "Ccedilla": {
+    "codepoint": "U+00C7",
+    "width": 678,
+    "components": [
+      [
+        "uni0043",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "cedillacomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          381.8795185411702,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0043"
+    ]
+  },
+  "Egrave": {
+    "codepoint": "U+00C8",
+    "width": 559,
+    "components": [
+      [
+        "uni0045",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "gravecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          314.9768509615378,
+          759.730224609375
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0045"
+    ]
+  },
+  "Eacute": {
+    "codepoint": "U+00C9",
+    "width": 559,
+    "components": [
+      [
+        "uni0045",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          314.9768509615378,
+          759.730224609375
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0045"
+    ]
+  },
+  "Ecircumflex": {
+    "codepoint": "U+00CA",
+    "width": 559,
+    "components": [
+      [
+        "uni0045",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "circumflexcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          314.9768509615378,
+          759.730224609375
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0045"
+    ]
+  },
+  "Edieresis": {
+    "codepoint": "U+00CB",
+    "width": 559,
+    "components": [
+      [
+        "uni0045",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dieresiscomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          314.9768509615378,
+          759.730224609375
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0045"
+    ]
+  },
+  "Igrave": {
+    "codepoint": "U+00CC",
+    "width": 233,
+    "components": [
+      [
+        "uni0049",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "gravecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          151.69141251001537,
+          750.371826171875
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0049"
+    ]
+  },
+  "Iacute": {
+    "codepoint": "U+00CD",
+    "width": 233,
+    "components": [
+      [
+        "uni0049",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          151.69141251001537,
+          750.371826171875
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0049"
+    ]
+  },
+  "Icircumflex": {
+    "codepoint": "U+00CE",
+    "width": 233,
+    "components": [
+      [
+        "uni0049",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "circumflexcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          151.69141251001537,
+          750.371826171875
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0049"
+    ]
+  },
+  "Idieresis": {
+    "codepoint": "U+00CF",
+    "width": 233,
+    "components": [
+      [
+        "uni0049",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dieresiscomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          151.69141251001537,
+          750.371826171875
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0049"
+    ]
+  },
+  "Ntilde": {
+    "codepoint": "U+00D1",
+    "width": 699,
+    "components": [
+      [
+        "uni004E",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "tildecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          392.1794871794872,
+          757.1202392578125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni004E"
+    ]
+  },
+  "Ograve": {
+    "codepoint": "U+00D2",
+    "width": 717,
+    "components": [
+      [
+        "uni004F",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "gravecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          378.6312962068746,
+          783.3321533203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni004F"
+    ]
+  },
+  "Oacute": {
+    "codepoint": "U+00D3",
+    "width": 717,
+    "components": [
+      [
+        "uni004F",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          378.6312962068746,
+          783.3321533203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni004F"
+    ]
+  },
+  "Ocircumflex": {
+    "codepoint": "U+00D4",
+    "width": 717,
+    "components": [
+      [
+        "uni004F",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "circumflexcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          378.6312962068746,
+          783.3321533203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni004F"
+    ]
+  },
+  "Otilde": {
+    "codepoint": "U+00D5",
+    "width": 717,
+    "components": [
+      [
+        "uni004F",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "tildecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          378.6312962068746,
+          783.3321533203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni004F"
+    ]
+  },
+  "Odieresis": {
+    "codepoint": "U+00D6",
+    "width": 717,
+    "components": [
+      [
+        "uni004F",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dieresiscomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          378.6312962068746,
+          783.3321533203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni004F"
+    ]
+  },
+  "Ugrave": {
+    "codepoint": "U+00D9",
+    "width": 593,
+    "components": [
+      [
+        "uni0055",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "gravecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          324.05524582775115,
+          769.5933837890625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0055"
+    ]
+  },
+  "Uacute": {
+    "codepoint": "U+00DA",
+    "width": 593,
+    "components": [
+      [
+        "uni0055",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          324.05524582775115,
+          769.5933837890625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0055"
+    ]
+  },
+  "Ucircumflex": {
+    "codepoint": "U+00DB",
+    "width": 593,
+    "components": [
+      [
+        "uni0055",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "circumflexcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          324.05524582775115,
+          769.5933837890625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0055"
+    ]
+  },
+  "Udieresis": {
+    "codepoint": "U+00DC",
+    "width": 593,
+    "components": [
+      [
+        "uni0055",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dieresiscomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          324.05524582775115,
+          769.5933837890625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0055"
+    ]
+  },
+  "Yacute": {
+    "codepoint": "U+00DD",
+    "width": 424,
+    "components": [
+      [
+        "uni0059",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          279.6923076923077,
+          769.40283203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0059"
+    ]
+  },
+  "agrave": {
+    "codepoint": "U+00E0",
+    "width": 480,
+    "components": [
+      [
+        "uni0061",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "gravecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          271.0106732045935,
+          488.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0061"
+    ]
+  },
+  "aacute": {
+    "codepoint": "U+00E1",
+    "width": 480,
+    "components": [
+      [
+        "uni0061",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          271.0106732045935,
+          488.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0061"
+    ]
+  },
+  "acircumflex": {
+    "codepoint": "U+00E2",
+    "width": 480,
+    "components": [
+      [
+        "uni0061",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "circumflexcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          271.0106732045935,
+          488.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0061"
+    ]
+  },
+  "atilde": {
+    "codepoint": "U+00E3",
+    "width": 480,
+    "components": [
+      [
+        "uni0061",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "tildecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          271.0106732045935,
+          488.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0061"
+    ]
+  },
+  "adieresis": {
+    "codepoint": "U+00E4",
+    "width": 480,
+    "components": [
+      [
+        "uni0061",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dieresiscomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          271.0106732045935,
+          488.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0061"
+    ]
+  },
+  "aring": {
+    "codepoint": "U+00E5",
+    "width": 480,
+    "components": [
+      [
+        "uni0061",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "ringcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          271.0106732045935,
+          488.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0061"
+    ]
+  },
+  "ccedilla": {
+    "codepoint": "U+00E7",
+    "width": 362,
+    "components": [
+      [
+        "uni0063",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "cedillacomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          201.1651865591688,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0063"
+    ]
+  },
+  "egrave": {
+    "codepoint": "U+00E8",
+    "width": 373,
+    "components": [
+      [
+        "uni0065",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "gravecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          210.24837174451318,
+          504.39434814453125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0065"
+    ]
+  },
+  "eacute": {
+    "codepoint": "U+00E9",
+    "width": 373,
+    "components": [
+      [
+        "uni0065",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          210.24837174451318,
+          504.39434814453125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0065"
+    ]
+  },
+  "ecircumflex": {
+    "codepoint": "U+00EA",
+    "width": 373,
+    "components": [
+      [
+        "uni0065",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "circumflexcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          210.24837174451318,
+          504.39434814453125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0065"
+    ]
+  },
+  "edieresis": {
+    "codepoint": "U+00EB",
+    "width": 373,
+    "components": [
+      [
+        "uni0065",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dieresiscomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          210.24837174451318,
+          504.39434814453125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0065"
+    ]
+  },
+  "igrave": {
+    "codepoint": "U+00EC",
+    "width": 193.0,
+    "components": [
+      [
+        "dotlessi",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "gravecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          96.5,
+          503.6388854980469
+        ]
+      ]
+    ],
+    "inherit": [
+      "dotlessi"
+    ]
+  },
+  "iacute": {
+    "codepoint": "U+00ED",
+    "width": 193.0,
+    "components": [
+      [
+        "dotlessi",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          96.5,
+          503.6388854980469
+        ]
+      ]
+    ],
+    "inherit": [
+      "dotlessi"
+    ]
+  },
+  "icircumflex": {
+    "codepoint": "U+00EE",
+    "width": 193.0,
+    "components": [
+      [
+        "dotlessi",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "circumflexcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          96.5,
+          503.6388854980469
+        ]
+      ]
+    ],
+    "inherit": [
+      "dotlessi"
+    ]
+  },
+  "idieresis": {
+    "codepoint": "U+00EF",
+    "width": 193.0,
+    "components": [
+      [
+        "dotlessi",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dieresiscomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          96.5,
+          503.6388854980469
+        ]
+      ]
+    ],
+    "inherit": [
+      "dotlessi"
+    ]
+  },
+  "ntilde": {
+    "codepoint": "U+00F1",
+    "width": 418,
+    "components": [
+      [
+        "uni006E",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "tildecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          261.5518532965114,
+          492.86083984375
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni006E"
+    ]
+  },
+  "ograve": {
+    "codepoint": "U+00F2",
+    "width": 416,
+    "components": [
+      [
+        "uni006F",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "gravecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          232.89632026490608,
+          518.5673522949219
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni006F"
+    ]
+  },
+  "oacute": {
+    "codepoint": "U+00F3",
+    "width": 416,
+    "components": [
+      [
+        "uni006F",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          232.89632026490608,
+          518.5673522949219
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni006F"
+    ]
+  },
+  "ocircumflex": {
+    "codepoint": "U+00F4",
+    "width": 416,
+    "components": [
+      [
+        "uni006F",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "circumflexcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          232.89632026490608,
+          518.5673522949219
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni006F"
+    ]
+  },
+  "otilde": {
+    "codepoint": "U+00F5",
+    "width": 416,
+    "components": [
+      [
+        "uni006F",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "tildecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          232.89632026490608,
+          518.5673522949219
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni006F"
+    ]
+  },
+  "odieresis": {
+    "codepoint": "U+00F6",
+    "width": 416,
+    "components": [
+      [
+        "uni006F",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dieresiscomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          232.89632026490608,
+          518.5673522949219
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni006F"
+    ]
+  },
+  "ugrave": {
+    "codepoint": "U+00F9",
+    "width": 428,
+    "components": [
+      [
+        "uni0075",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "gravecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          243.93299634734467,
+          490.5485534667969
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0075"
+    ]
+  },
+  "uacute": {
+    "codepoint": "U+00FA",
+    "width": 428,
+    "components": [
+      [
+        "uni0075",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          243.93299634734467,
+          490.5485534667969
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0075"
+    ]
+  },
+  "ucircumflex": {
+    "codepoint": "U+00FB",
+    "width": 428,
+    "components": [
+      [
+        "uni0075",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "circumflexcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          243.93299634734467,
+          490.5485534667969
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0075"
+    ]
+  },
+  "udieresis": {
+    "codepoint": "U+00FC",
+    "width": 428,
+    "components": [
+      [
+        "uni0075",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dieresiscomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          243.93299634734467,
+          490.5485534667969
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0075"
+    ]
+  },
+  "yacute": {
+    "codepoint": "U+00FD",
+    "width": 434,
+    "components": [
+      [
+        "uni0079",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          254.6511627906977,
+          489.2754821777344
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0079"
+    ]
+  },
+  "ydieresis": {
+    "codepoint": "U+00FF",
+    "width": 434,
+    "components": [
+      [
+        "uni0079",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dieresiscomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          254.6511627906977,
+          489.2754821777344
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0079"
+    ]
+  },
+  "Amacron": {
+    "codepoint": "U+0100",
+    "width": 1052,
+    "components": [
+      [
+        "uni0041",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "macroncomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          722.051282051282,
+          862.62158203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0041"
+    ]
+  },
+  "amacron": {
+    "codepoint": "U+0101",
+    "width": 480,
+    "components": [
+      [
+        "uni0061",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "macroncomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          271.0106732045935,
+          488.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0061"
+    ]
+  },
+  "Abreve": {
+    "codepoint": "U+0102",
+    "width": 1052,
+    "components": [
+      [
+        "uni0041",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "brevecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          722.051282051282,
+          862.62158203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0041"
+    ]
+  },
+  "abreve": {
+    "codepoint": "U+0103",
+    "width": 480,
+    "components": [
+      [
+        "uni0061",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "brevecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          271.0106732045935,
+          488.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0061"
+    ]
+  },
+  "Aogonek": {
+    "codepoint": "U+0104",
+    "width": 1052,
+    "components": [
+      [
+        "uni0041",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "ogonekcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          1068.211269553363,
+          -7.526916071794943
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0041"
+    ]
+  },
+  "aogonek": {
+    "codepoint": "U+0105",
+    "width": 480,
+    "components": [
+      [
+        "uni0061",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "ogonekcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          450.780473497524,
+          12.93433233581479
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0061"
+    ]
+  },
+  "Cacute": {
+    "codepoint": "U+0106",
+    "width": 678,
+    "components": [
+      [
+        "uni0043",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          381.8795185411702,
+          805.92822265625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0043"
+    ]
+  },
+  "cacute": {
+    "codepoint": "U+0107",
+    "width": 362,
+    "components": [
+      [
+        "uni0063",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          201.1651865591688,
+          504.65631103515625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0063"
+    ]
+  },
+  "Cdotaccent": {
+    "codepoint": "U+010A",
+    "width": 678,
+    "components": [
+      [
+        "uni0043",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dotaccentcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          381.8795185411702,
+          805.92822265625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0043"
+    ]
+  },
+  "cdotaccent": {
+    "codepoint": "U+010B",
+    "width": 362,
+    "components": [
+      [
+        "uni0063",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dotaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          201.1651865591688,
+          504.65631103515625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0063"
+    ]
+  },
+  "Ccaron": {
+    "codepoint": "U+010C",
+    "width": 678,
+    "components": [
+      [
+        "uni0043",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          381.8795185411702,
+          805.92822265625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0043"
+    ]
+  },
+  "ccaron": {
+    "codepoint": "U+010D",
+    "width": 362,
+    "components": [
+      [
+        "uni0063",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          201.1651865591688,
+          504.65631103515625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0063"
+    ]
+  },
+  "Dcaron": {
+    "codepoint": "U+010E",
+    "width": 815,
+    "components": [
+      [
+        "uni0044",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          507.6923076923077,
+          852.1953735351562
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0044"
+    ]
+  },
+  "dcaron": {
+    "codepoint": "U+010F",
+    "width": 548.2341918945312,
+    "components": [
+      [
+        "uni0064",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb.alt",
+        [
+          1,
+          0,
+          0,
+          1,
+          447.23419189453125,
+          561.7543319957559
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0064"
+    ]
+  },
+  "Emacron": {
+    "codepoint": "U+0112",
+    "width": 559,
+    "components": [
+      [
+        "uni0045",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "macroncomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          314.9768509615378,
+          759.730224609375
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0045"
+    ]
+  },
+  "emacron": {
+    "codepoint": "U+0113",
+    "width": 373,
+    "components": [
+      [
+        "uni0065",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "macroncomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          210.24837174451318,
+          504.39434814453125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0065"
+    ]
+  },
+  "Edotaccent": {
+    "codepoint": "U+0116",
+    "width": 559,
+    "components": [
+      [
+        "uni0045",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dotaccentcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          314.9768509615378,
+          759.730224609375
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0045"
+    ]
+  },
+  "edotaccent": {
+    "codepoint": "U+0117",
+    "width": 373,
+    "components": [
+      [
+        "uni0065",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dotaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          210.24837174451318,
+          504.39434814453125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0065"
+    ]
+  },
+  "Eogonek": {
+    "codepoint": "U+0118",
+    "width": 559,
+    "components": [
+      [
+        "uni0045",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "ogonekcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          530.2379694712906,
+          4.191984772366757
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0045"
+    ]
+  },
+  "eogonek": {
+    "codepoint": "U+0119",
+    "width": 373,
+    "components": [
+      [
+        "uni0065",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "ogonekcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          317.9030956980314,
+          19.18670563229033
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0065"
+    ]
+  },
+  "Ecaron": {
+    "codepoint": "U+011A",
+    "width": 559,
+    "components": [
+      [
+        "uni0045",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          314.9768509615378,
+          759.730224609375
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0045"
+    ]
+  },
+  "ecaron": {
+    "codepoint": "U+011B",
+    "width": 373,
+    "components": [
+      [
+        "uni0065",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          210.24837174451318,
+          504.39434814453125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0065"
+    ]
+  },
+  "Gbreve": {
+    "codepoint": "U+011E",
+    "width": 640,
+    "components": [
+      [
+        "uni0047",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "brevecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          354.89561284371246,
+          759.0817260742188
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0047"
+    ]
+  },
+  "gbreve": {
+    "codepoint": "U+011F",
+    "width": 402,
+    "components": [
+      [
+        "uni0067",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "brevecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          224.4310773230068,
+          587.68408203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0067"
+    ]
+  },
+  "Gdotaccent": {
+    "codepoint": "U+0120",
+    "width": 640,
+    "components": [
+      [
+        "uni0047",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dotaccentcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          354.89561284371246,
+          759.0817260742188
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0047"
+    ]
+  },
+  "gdotaccent": {
+    "codepoint": "U+0121",
+    "width": 402,
+    "components": [
+      [
+        "uni0067",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dotaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          224.4310773230068,
+          587.68408203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0067"
+    ]
+  },
+  "uni0122": {
+    "codepoint": "U+0122",
+    "width": 640,
+    "components": [
+      [
+        "uni0047",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "commaaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          354.89561284371246,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0047"
+    ]
+  },
+  "uni0123": {
+    "codepoint": "U+0123",
+    "width": 402,
+    "components": [
+      [
+        "uni0067",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "commaaccentcomb.above",
+        [
+          1,
+          0,
+          0,
+          1,
+          224.4310773230068,
+          587.68408203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0067"
+    ]
+  },
+  "Imacron": {
+    "codepoint": "U+012A",
+    "width": 233,
+    "components": [
+      [
+        "uni0049",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "macroncomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          151.69141251001537,
+          750.371826171875
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0049"
+    ]
+  },
+  "imacron": {
+    "codepoint": "U+012B",
+    "width": 193.0,
+    "components": [
+      [
+        "dotlessi",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "macroncomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          96.5,
+          503.6388854980469
+        ]
+      ]
+    ],
+    "inherit": [
+      "dotlessi"
+    ]
+  },
+  "Iogonek": {
+    "codepoint": "U+012E",
+    "width": 233,
+    "components": [
+      [
+        "uni0049",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "ogonekcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          236.67048777986543,
+          -6.211113370583448
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0049"
+    ]
+  },
+  "iogonek": {
+    "codepoint": "U+012F",
+    "width": 193,
+    "components": [
+      [
+        "uni0069",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "ogonekcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          220.0670359945579,
+          1.5351105186426297
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0069"
+    ]
+  },
+  "Idotaccent": {
+    "codepoint": "U+0130",
+    "width": 233,
+    "components": [
+      [
+        "uni0049",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dotaccentcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          151.69141251001537,
+          750.371826171875
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0049"
+    ]
+  },
+  "uni0136": {
+    "codepoint": "U+0136",
+    "width": 858,
+    "components": [
+      [
+        "uni004B",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "commaaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          396.1538461538462,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni004B"
+    ]
+  },
+  "uni0137": {
+    "codepoint": "U+0137",
+    "width": 424,
+    "components": [
+      [
+        "uni006B",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "commaaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          229.4186046511628,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni006B"
+    ]
+  },
+  "Lacute": {
+    "codepoint": "U+0139",
+    "width": 653,
+    "components": [
+      [
+        "uni004C",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          315.2564102564103,
+          759.9624633789062
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni004C"
+    ]
+  },
+  "lacute": {
+    "codepoint": "U+013A",
+    "width": 193,
+    "components": [
+      [
+        "uni006C",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          121.5636279069783,
+          750.6553955078125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni006C"
+    ]
+  },
+  "uni013B": {
+    "codepoint": "U+013B",
+    "width": 653,
+    "components": [
+      [
+        "uni004C",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "commaaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          315.2564102564103,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni004C"
+    ]
+  },
+  "uni013C": {
+    "codepoint": "U+013C",
+    "width": 193,
+    "components": [
+      [
+        "uni006C",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "commaaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          121.5636279069783,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni006C"
+    ]
+  },
+  "Lcaron": {
+    "codepoint": "U+013D",
+    "width": 653,
+    "components": [
+      [
+        "uni004C",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb.alt",
+        [
+          1,
+          0,
+          0,
+          1,
+          286.3520202636719,
+          571.4887637987107
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni004C"
+    ]
+  },
+  "lcaron": {
+    "codepoint": "U+013E",
+    "width": 305.58299255371094,
+    "components": [
+      [
+        "uni006C",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb.alt",
+        [
+          1,
+          0,
+          0,
+          1,
+          204.58299255371094,
+          562.6553950556811
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni006C"
+    ]
+  },
+  "Nacute": {
+    "codepoint": "U+0143",
+    "width": 699,
+    "components": [
+      [
+        "uni004E",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          392.1794871794872,
+          757.1202392578125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni004E"
+    ]
+  },
+  "nacute": {
+    "codepoint": "U+0144",
+    "width": 418,
+    "components": [
+      [
+        "uni006E",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          261.5518532965114,
+          492.86083984375
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni006E"
+    ]
+  },
+  "uni0145": {
+    "codepoint": "U+0145",
+    "width": 699,
+    "components": [
+      [
+        "uni004E",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "commaaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          392.1794871794872,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni004E"
+    ]
+  },
+  "uni0146": {
+    "codepoint": "U+0146",
+    "width": 418,
+    "components": [
+      [
+        "uni006E",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "commaaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          261.5518532965114,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni006E"
+    ]
+  },
+  "Ncaron": {
+    "codepoint": "U+0147",
+    "width": 699,
+    "components": [
+      [
+        "uni004E",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          392.1794871794872,
+          757.1202392578125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni004E"
+    ]
+  },
+  "ncaron": {
+    "codepoint": "U+0148",
+    "width": 418,
+    "components": [
+      [
+        "uni006E",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          261.5518532965114,
+          492.86083984375
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni006E"
+    ]
+  },
+  "Ohungarumlaut": {
+    "codepoint": "U+0150",
+    "width": 717,
+    "components": [
+      [
+        "uni004F",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "hungarumlautcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          378.6312962068746,
+          783.3321533203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni004F"
+    ]
+  },
+  "ohungarumlaut": {
+    "codepoint": "U+0151",
+    "width": 416,
+    "components": [
+      [
+        "uni006F",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "hungarumlautcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          232.89632026490608,
+          518.5673522949219
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni006F"
+    ]
+  },
+  "Racute": {
+    "codepoint": "U+0154",
+    "width": 606,
+    "components": [
+      [
+        "uni0052",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          363.71794871794873,
+          762.703125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0052"
+    ]
+  },
+  "racute": {
+    "codepoint": "U+0155",
+    "width": 303,
+    "components": [
+      [
+        "uni0072",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          185.17219299174133,
+          503.3268127441406
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0072"
+    ]
+  },
+  "Rcaron": {
+    "codepoint": "U+0158",
+    "width": 606,
+    "components": [
+      [
+        "uni0052",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          363.71794871794873,
+          762.703125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0052"
+    ]
+  },
+  "rcaron": {
+    "codepoint": "U+0159",
+    "width": 303,
+    "components": [
+      [
+        "uni0072",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          185.17219299174133,
+          503.3268127441406
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0072"
+    ]
+  },
+  "Sacute": {
+    "codepoint": "U+015A",
+    "width": 516,
+    "components": [
+      [
+        "uni0053",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          280.6954227812394,
+          773.8652954101562
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0053"
+    ]
+  },
+  "sacute": {
+    "codepoint": "U+015B",
+    "width": 309,
+    "components": [
+      [
+        "uni0073",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          184.46151021063065,
+          503.0877990722656
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0073"
+    ]
+  },
+  "Scedilla": {
+    "codepoint": "U+015E",
+    "width": 516,
+    "components": [
+      [
+        "uni0053",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "cedillacomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          280.6954227812394,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0053"
+    ]
+  },
+  "scedilla": {
+    "codepoint": "U+015F",
+    "width": 309,
+    "components": [
+      [
+        "uni0073",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "cedillacomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          184.46151021063065,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0073"
+    ]
+  },
+  "Scaron": {
+    "codepoint": "U+0160",
+    "width": 516,
+    "components": [
+      [
+        "uni0053",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          280.6954227812394,
+          773.8652954101562
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0053"
+    ]
+  },
+  "scaron": {
+    "codepoint": "U+0161",
+    "width": 309,
+    "components": [
+      [
+        "uni0073",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          184.46151021063065,
+          503.0877990722656
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0073"
+    ]
+  },
+  "Tcaron": {
+    "codepoint": "U+0164",
+    "width": 532,
+    "components": [
+      [
+        "uni0054",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          288.72303417412365,
+          762.5077514648438
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0054"
+    ]
+  },
+  "tcaron": {
+    "codepoint": "U+0165",
+    "width": 395.0686950683594,
+    "components": [
+      [
+        "uni0074",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb.alt",
+        [
+          1,
+          0,
+          0,
+          1,
+          294.0686950683594,
+          391.36926469623904
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0074"
+    ]
+  },
+  "Umacron": {
+    "codepoint": "U+016A",
+    "width": 593,
+    "components": [
+      [
+        "uni0055",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "macroncomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          324.05524582775115,
+          769.5933837890625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0055"
+    ]
+  },
+  "umacron": {
+    "codepoint": "U+016B",
+    "width": 428,
+    "components": [
+      [
+        "uni0075",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "macroncomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          243.93299634734467,
+          490.5485534667969
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0075"
+    ]
+  },
+  "Uring": {
+    "codepoint": "U+016E",
+    "width": 593,
+    "components": [
+      [
+        "uni0055",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "ringcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          324.05524582775115,
+          769.5933837890625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0055"
+    ]
+  },
+  "uring": {
+    "codepoint": "U+016F",
+    "width": 428,
+    "components": [
+      [
+        "uni0075",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "ringcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          243.93299634734467,
+          490.5485534667969
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0075"
+    ]
+  },
+  "Uhungarumlaut": {
+    "codepoint": "U+0170",
+    "width": 593,
+    "components": [
+      [
+        "uni0055",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "hungarumlautcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          324.05524582775115,
+          769.5933837890625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0055"
+    ]
+  },
+  "uhungarumlaut": {
+    "codepoint": "U+0171",
+    "width": 428,
+    "components": [
+      [
+        "uni0075",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "hungarumlautcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          243.93299634734467,
+          490.5485534667969
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0075"
+    ]
+  },
+  "Uogonek": {
+    "codepoint": "U+0172",
+    "width": 593,
+    "components": [
+      [
+        "uni0055",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "ogonekcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          477.5765597954705,
+          35.92279991034987
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0055"
+    ]
+  },
+  "uogonek": {
+    "codepoint": "U+0173",
+    "width": 428,
+    "components": [
+      [
+        "uni0075",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "ogonekcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          429.8685974642867,
+          0.3992959146171584
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0075"
+    ]
+  },
+  "Wcircumflex": {
+    "codepoint": "U+0174",
+    "width": 814,
+    "components": [
+      [
+        "uni0057",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "circumflexcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          304.43589743589746,
+          772.4590454101562
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0057"
+    ]
+  },
+  "wcircumflex": {
+    "codepoint": "U+0175",
+    "width": 608,
+    "components": [
+      [
+        "uni0077",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "circumflexcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          331.6110504354476,
+          488.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0077"
+    ]
+  },
+  "Ycircumflex": {
+    "codepoint": "U+0176",
+    "width": 424,
+    "components": [
+      [
+        "uni0059",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "circumflexcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          279.6923076923077,
+          769.40283203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0059"
+    ]
+  },
+  "ycircumflex": {
+    "codepoint": "U+0177",
+    "width": 434,
+    "components": [
+      [
+        "uni0079",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "circumflexcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          254.6511627906977,
+          489.2754821777344
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0079"
+    ]
+  },
+  "Ydieresis": {
+    "codepoint": "U+0178",
+    "width": 424,
+    "components": [
+      [
+        "uni0059",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dieresiscomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          279.6923076923077,
+          769.40283203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0059"
+    ]
+  },
+  "Zacute": {
+    "codepoint": "U+0179",
+    "width": 738,
+    "components": [
+      [
+        "uni005A",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          336.2820512820513,
+          748.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni005A"
+    ]
+  },
+  "zacute": {
+    "codepoint": "U+017A",
+    "width": 394,
+    "components": [
+      [
+        "uni007A",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          227.02088330807032,
+          491.47265625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni007A"
+    ]
+  },
+  "Zdotaccent": {
+    "codepoint": "U+017B",
+    "width": 738,
+    "components": [
+      [
+        "uni005A",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dotaccentcomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          336.2820512820513,
+          748.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni005A"
+    ]
+  },
+  "zdotaccent": {
+    "codepoint": "U+017C",
+    "width": 394,
+    "components": [
+      [
+        "uni007A",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dotaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          227.02088330807032,
+          491.47265625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni007A"
+    ]
+  },
+  "Zcaron": {
+    "codepoint": "U+017D",
+    "width": 738,
+    "components": [
+      [
+        "uni005A",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          336.2820512820513,
+          748.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni005A"
+    ]
+  },
+  "zcaron": {
+    "codepoint": "U+017E",
+    "width": 394,
+    "components": [
+      [
+        "uni007A",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "caroncomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          227.02088330807032,
+          491.47265625
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni007A"
+    ]
+  },
+  "uni0218": {
+    "codepoint": "U+0218",
+    "width": 516,
+    "components": [
+      [
+        "uni0053",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "commaaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          280.6954227812394,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0053"
+    ]
+  },
+  "uni0219": {
+    "codepoint": "U+0219",
+    "width": 309,
+    "components": [
+      [
+        "uni0073",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "commaaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          184.46151021063065,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0073"
+    ]
+  },
+  "uni021A": {
+    "codepoint": "U+021A",
+    "width": 532,
+    "components": [
+      [
+        "uni0054",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "commaaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          288.72303417412365,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0054"
+    ]
+  },
+  "uni021B": {
+    "codepoint": "U+021B",
+    "width": 254,
+    "components": [
+      [
+        "uni0074",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "commaaccentcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          148.8054460641402,
+          0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0074"
+    ]
+  },
+  "Wgrave": {
+    "codepoint": "U+1E80",
+    "width": 814,
+    "components": [
+      [
+        "uni0057",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "gravecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          304.43589743589746,
+          772.4590454101562
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0057"
+    ]
+  },
+  "wgrave": {
+    "codepoint": "U+1E81",
+    "width": 608,
+    "components": [
+      [
+        "uni0077",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "gravecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          331.6110504354476,
+          488.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0077"
+    ]
+  },
+  "Wacute": {
+    "codepoint": "U+1E82",
+    "width": 814,
+    "components": [
+      [
+        "uni0057",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          304.43589743589746,
+          772.4590454101562
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0057"
+    ]
+  },
+  "wacute": {
+    "codepoint": "U+1E83",
+    "width": 608,
+    "components": [
+      [
+        "uni0077",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "acutecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          331.6110504354476,
+          488.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0077"
+    ]
+  },
+  "Wdieresis": {
+    "codepoint": "U+1E84",
+    "width": 814,
+    "components": [
+      [
+        "uni0057",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dieresiscomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          304.43589743589746,
+          772.4590454101562
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0057"
+    ]
+  },
+  "wdieresis": {
+    "codepoint": "U+1E85",
+    "width": 608,
+    "components": [
+      [
+        "uni0077",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "dieresiscomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          331.6110504354476,
+          488.0
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0077"
+    ]
+  },
+  "Ygrave": {
+    "codepoint": "U+1EF2",
+    "width": 424,
+    "components": [
+      [
+        "uni0059",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "gravecomb.case",
+        [
+          1,
+          0,
+          0,
+          1,
+          279.6923076923077,
+          769.40283203125
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0059"
+    ]
+  },
+  "ygrave": {
+    "codepoint": "U+1EF3",
+    "width": 434,
+    "components": [
+      [
+        "uni0079",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "gravecomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          254.6511627906977,
+          489.2754821777344
+        ]
+      ]
+    ],
+    "inherit": [
+      "uni0079"
+    ]
+  },
+  "iogonek.dotless": {
+    "codepoint": null,
+    "width": 193.0,
+    "components": [
+      [
+        "dotlessi",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "ogonekcomb",
+        [
+          1,
+          0,
+          0,
+          1,
+          150.19413292386153,
+          -14.81857896778022
+        ]
+      ]
+    ],
+    "inherit": [
+      "dotlessi"
+    ]
+  },
+  "currency": {
+    "codepoint": "U+00A4",
+    "width": 640,
+    "components": null,
+    "inherit": null
+  },
+  "brokenbar": {
+    "codepoint": "U+00A6",
+    "width": 190,
+    "components": null,
+    "inherit": null
+  },
+  "logicalnot": {
+    "codepoint": "U+00AC",
+    "width": 630,
+    "components": null,
+    "inherit": null
+  },
+  "mu": {
+    "codepoint": "U+00B5",
+    "width": 428,
+    "components": null,
+    "inherit": [
+      "uni0075"
+    ]
+  },
+  "zero.super": {
+    "codepoint": null,
+    "width": 390,
+    "components": [
+      [
+        "uni0030",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          390
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "zero.sub": {
+    "codepoint": null,
+    "width": 390,
+    "components": [
+      [
+        "uni0030",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          -155
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "zero.numr": {
+    "codepoint": null,
+    "width": 390,
+    "components": [
+      [
+        "uni0030",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          350
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "zero.dnom": {
+    "codepoint": null,
+    "width": 390,
+    "components": [
+      [
+        "uni0030",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "one.super": {
+    "codepoint": null,
+    "width": 170,
+    "components": [
+      [
+        "uni0031",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          390
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "one.sub": {
+    "codepoint": null,
+    "width": 170,
+    "components": [
+      [
+        "uni0031",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          -155
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "one.numr": {
+    "codepoint": null,
+    "width": 170,
+    "components": [
+      [
+        "uni0031",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          350
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "one.dnom": {
+    "codepoint": null,
+    "width": 170,
+    "components": [
+      [
+        "uni0031",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "two.super": {
+    "codepoint": null,
+    "width": 311,
+    "components": [
+      [
+        "uni0032",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          390
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "two.sub": {
+    "codepoint": null,
+    "width": 311,
+    "components": [
+      [
+        "uni0032",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          -155
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "two.numr": {
+    "codepoint": null,
+    "width": 311,
+    "components": [
+      [
+        "uni0032",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          350
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "two.dnom": {
+    "codepoint": null,
+    "width": 311,
+    "components": [
+      [
+        "uni0032",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "three.super": {
+    "codepoint": null,
+    "width": 319,
+    "components": [
+      [
+        "uni0033",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          390
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "three.sub": {
+    "codepoint": null,
+    "width": 319,
+    "components": [
+      [
+        "uni0033",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          -155
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "three.numr": {
+    "codepoint": null,
+    "width": 319,
+    "components": [
+      [
+        "uni0033",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          350
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "three.dnom": {
+    "codepoint": null,
+    "width": 319,
+    "components": [
+      [
+        "uni0033",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "four.super": {
+    "codepoint": null,
+    "width": 317,
+    "components": [
+      [
+        "uni0034",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          390
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "four.sub": {
+    "codepoint": null,
+    "width": 317,
+    "components": [
+      [
+        "uni0034",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          -155
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "four.numr": {
+    "codepoint": null,
+    "width": 317,
+    "components": [
+      [
+        "uni0034",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          350
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "four.dnom": {
+    "codepoint": null,
+    "width": 317,
+    "components": [
+      [
+        "uni0034",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "five.super": {
+    "codepoint": null,
+    "width": 320,
+    "components": [
+      [
+        "uni0035",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          390
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "five.sub": {
+    "codepoint": null,
+    "width": 320,
+    "components": [
+      [
+        "uni0035",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          -155
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "five.numr": {
+    "codepoint": null,
+    "width": 320,
+    "components": [
+      [
+        "uni0035",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          350
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "five.dnom": {
+    "codepoint": null,
+    "width": 320,
+    "components": [
+      [
+        "uni0035",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "six.super": {
+    "codepoint": null,
+    "width": 343,
+    "components": [
+      [
+        "uni0036",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          390
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "six.sub": {
+    "codepoint": null,
+    "width": 343,
+    "components": [
+      [
+        "uni0036",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          -155
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "six.numr": {
+    "codepoint": null,
+    "width": 343,
+    "components": [
+      [
+        "uni0036",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          350
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "six.dnom": {
+    "codepoint": null,
+    "width": 343,
+    "components": [
+      [
+        "uni0036",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "seven.super": {
+    "codepoint": null,
+    "width": 253,
+    "components": [
+      [
+        "uni0037",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          390
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "seven.sub": {
+    "codepoint": null,
+    "width": 253,
+    "components": [
+      [
+        "uni0037",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          -155
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "seven.numr": {
+    "codepoint": null,
+    "width": 253,
+    "components": [
+      [
+        "uni0037",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          350
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "seven.dnom": {
+    "codepoint": null,
+    "width": 253,
+    "components": [
+      [
+        "uni0037",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "eight.super": {
+    "codepoint": null,
+    "width": 318,
+    "components": [
+      [
+        "uni0038",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          390
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "eight.sub": {
+    "codepoint": null,
+    "width": 318,
+    "components": [
+      [
+        "uni0038",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          -155
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "eight.numr": {
+    "codepoint": null,
+    "width": 318,
+    "components": [
+      [
+        "uni0038",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          350
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "eight.dnom": {
+    "codepoint": null,
+    "width": 318,
+    "components": [
+      [
+        "uni0038",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "nine.super": {
+    "codepoint": null,
+    "width": 343,
+    "components": [
+      [
+        "uni0039",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          390
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "nine.sub": {
+    "codepoint": null,
+    "width": 343,
+    "components": [
+      [
+        "uni0039",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          -155
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "nine.numr": {
+    "codepoint": null,
+    "width": 343,
+    "components": [
+      [
+        "uni0039",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          350
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "nine.dnom": {
+    "codepoint": null,
+    "width": 343,
+    "components": [
+      [
+        "uni0039",
+        [
+          0.59,
+          0,
+          0,
+          0.59,
+          15,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "fraction.rule": {
+    "codepoint": null,
+    "width": 240,
+    "components": null,
+    "inherit": null
+  },
+  "onequarter": {
+    "codepoint": "U+00BC",
+    "width": 730,
+    "components": [
+      [
+        "one.numr",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "fraction.rule",
+        [
+          1,
+          0,
+          0,
+          1,
+          200,
+          0
+        ]
+      ],
+      [
+        "four.dnom",
+        [
+          1,
+          0,
+          0,
+          1,
+          410,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "onehalf": {
+    "codepoint": "U+00BD",
+    "width": 730,
+    "components": [
+      [
+        "one.numr",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "fraction.rule",
+        [
+          1,
+          0,
+          0,
+          1,
+          200,
+          0
+        ]
+      ],
+      [
+        "two.dnom",
+        [
+          1,
+          0,
+          0,
+          1,
+          410,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "threequarters": {
+    "codepoint": "U+00BE",
+    "width": 730,
+    "components": [
+      [
+        "three.numr",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "fraction.rule",
+        [
+          1,
+          0,
+          0,
+          1,
+          200,
+          0
+        ]
+      ],
+      [
+        "four.dnom",
+        [
+          1,
+          0,
+          0,
+          1,
+          410,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "onethird": {
+    "codepoint": "U+2153",
+    "width": 730,
+    "components": [
+      [
+        "one.numr",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "fraction.rule",
+        [
+          1,
+          0,
+          0,
+          1,
+          200,
+          0
+        ]
+      ],
+      [
+        "three.dnom",
+        [
+          1,
+          0,
+          0,
+          1,
+          410,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "twothirds": {
+    "codepoint": "U+2154",
+    "width": 730,
+    "components": [
+      [
+        "two.numr",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "fraction.rule",
+        [
+          1,
+          0,
+          0,
+          1,
+          200,
+          0
+        ]
+      ],
+      [
+        "three.dnom",
+        [
+          1,
+          0,
+          0,
+          1,
+          410,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "oneeighth": {
+    "codepoint": "U+215B",
+    "width": 730,
+    "components": [
+      [
+        "one.numr",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "fraction.rule",
+        [
+          1,
+          0,
+          0,
+          1,
+          200,
+          0
+        ]
+      ],
+      [
+        "eight.dnom",
+        [
+          1,
+          0,
+          0,
+          1,
+          410,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "threeeighths": {
+    "codepoint": "U+215C",
+    "width": 730,
+    "components": [
+      [
+        "three.numr",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "fraction.rule",
+        [
+          1,
+          0,
+          0,
+          1,
+          200,
+          0
+        ]
+      ],
+      [
+        "eight.dnom",
+        [
+          1,
+          0,
+          0,
+          1,
+          410,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "fiveeighths": {
+    "codepoint": "U+215D",
+    "width": 730,
+    "components": [
+      [
+        "five.numr",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "fraction.rule",
+        [
+          1,
+          0,
+          0,
+          1,
+          200,
+          0
+        ]
+      ],
+      [
+        "eight.dnom",
+        [
+          1,
+          0,
+          0,
+          1,
+          410,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "seveneighths": {
+    "codepoint": "U+215E",
+    "width": 730,
+    "components": [
+      [
+        "seven.numr",
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "fraction.rule",
+        [
+          1,
+          0,
+          0,
+          1,
+          200,
+          0
+        ]
+      ],
+      [
+        "eight.dnom",
+        [
+          1,
+          0,
+          0,
+          1,
+          410,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "dagger": {
+    "codepoint": "U+2020",
+    "width": 425,
+    "components": null,
+    "inherit": null
+  },
+  "daggerdbl": {
+    "codepoint": "U+2021",
+    "width": 425,
+    "components": null,
+    "inherit": null
+  },
+  "perthousand": {
+    "codepoint": "U+2030",
+    "width": 1040,
+    "components": null,
+    "inherit": null
+  },
+  "uni2116": {
+    "codepoint": "U+2116",
+    "width": 1120,
+    "components": null,
+    "inherit": null
+  },
+  "arrowright": {
+    "codepoint": "U+2192",
+    "width": 745,
+    "components": null,
+    "inherit": null
+  },
+  "arrowleft": {
+    "codepoint": "U+2190",
+    "width": 745,
+    "components": null,
+    "inherit": null
+  },
+  "arrowup": {
+    "codepoint": "U+2191",
+    "width": 745,
+    "components": null,
+    "inherit": null
+  },
+  "arrowdown": {
+    "codepoint": "U+2193",
+    "width": 745,
+    "components": null,
+    "inherit": null
+  },
+  "uni2713": {
+    "codepoint": "U+2713",
+    "width": 700,
+    "components": null,
+    "inherit": null
+  },
+  "uni25CC": {
+    "codepoint": "U+25CC",
+    "width": 620,
+    "components": null,
+    "inherit": null
+  },
+  "f_f": {
+    "codepoint": null,
+    "width": 591,
+    "components": null,
+    "inherit": [
+      "uni0066",
+      "uni0066"
+    ]
+  },
+  "f_i": {
+    "codepoint": null,
+    "width": 478,
+    "components": null,
+    "inherit": [
+      "uni0066",
+      "uni0069"
+    ]
+  },
+  "f_l": {
+    "codepoint": null,
+    "width": 478,
+    "components": null,
+    "inherit": [
+      "uni0066",
+      "uni006C"
+    ]
+  },
+  "f_f_i": {
+    "codepoint": null,
+    "width": 751,
+    "components": null,
+    "inherit": [
+      "uni0066",
+      "uni0069"
+    ]
+  },
+  "f_f_l": {
+    "codepoint": null,
+    "width": 751,
+    "components": null,
+    "inherit": [
+      "uni0066",
+      "uni006C"
+    ]
+  },
+  "uni0030.tnum": {
+    "codepoint": null,
+    "width": 660,
+    "components": [
+      [
+        "uni0030",
+        [
+          1,
+          0,
+          0,
+          1,
+          24.5,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "uni0031.tnum": {
+    "codepoint": null,
+    "width": 660,
+    "components": [
+      [
+        "uni0031",
+        [
+          1,
+          0,
+          0,
+          1,
+          211.5,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "uni0032.tnum": {
+    "codepoint": null,
+    "width": 660,
+    "components": [
+      [
+        "uni0032",
+        [
+          1,
+          0,
+          0,
+          1,
+          92.0,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "uni0033.tnum": {
+    "codepoint": null,
+    "width": 660,
+    "components": [
+      [
+        "uni0033",
+        [
+          1,
+          0,
+          0,
+          1,
+          85.5,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "uni0034.tnum": {
+    "codepoint": null,
+    "width": 660,
+    "components": [
+      [
+        "uni0034",
+        [
+          1,
+          0,
+          0,
+          1,
+          87.0,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "uni0035.tnum": {
+    "codepoint": null,
+    "width": 660,
+    "components": [
+      [
+        "uni0035",
+        [
+          1,
+          0,
+          0,
+          1,
+          84.0,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "uni0036.tnum": {
+    "codepoint": null,
+    "width": 660,
+    "components": [
+      [
+        "uni0036",
+        [
+          1,
+          0,
+          0,
+          1,
+          65.0,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "uni0037.tnum": {
+    "codepoint": null,
+    "width": 660,
+    "components": [
+      [
+        "uni0037",
+        [
+          1,
+          0,
+          0,
+          1,
+          141.0,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "uni0038.tnum": {
+    "codepoint": null,
+    "width": 660,
+    "components": [
+      [
+        "uni0038",
+        [
+          1,
+          0,
+          0,
+          1,
+          86.0,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "uni0039.tnum": {
+    "codepoint": null,
+    "width": 660,
+    "components": [
+      [
+        "uni0039",
+        [
+          1,
+          0,
+          0,
+          1,
+          65.0,
+          0
+        ]
+      ]
+    ],
+    "inherit": null
+  },
+  "uni200B": {
+    "codepoint": "U+200B",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "uni200C": {
+    "codepoint": "U+200C",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "uni200D": {
+    "codepoint": "U+200D",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "uni2060": {
+    "codepoint": "U+2060",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  },
+  "uniFEFF": {
+    "codepoint": "U+FEFF",
+    "width": 0,
+    "components": null,
+    "inherit": null
+  }
+}

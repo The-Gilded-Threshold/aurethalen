@@ -1,0 +1,20 @@
+{
+  "retrieved_date": "2026-11-12",
+  "sources": [
+    {
+      "file": "GF_Latin_Core.nam",
+      "url": "https://raw.githubusercontent.com/googlefonts/glyphsets/main/data/results/nam/GF_Latin_Core.nam",
+      "sha256": "26936a4812ff33ee62a2e8156b9976173755909be84138ca4794a33f123b7d18"
+    },
+    {
+      "file": "GF_Latin_Core.yaml",
+      "url": "https://raw.githubusercontent.com/googlefonts/glyphsets/main/Lib/glyphsets/definitions/GF_Latin_Core.yaml",
+      "sha256": "37e847ffc0de883be6690920227d17a287c708ce258a827c8c0a5b357ec4fd51"
+    },
+    {
+      "file": "OFL-template.txt",
+      "url": "https://openfontlicense.org/documents/OFL.txt",
+      "sha256": "1d361a8f8e8ce6e68457dcd93fb56e162e6baa3bbb7e7573a290d44399f6b57e"
+    }
+  ]
+}
