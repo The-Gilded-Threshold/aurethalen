@@ -1,0 +1,2115 @@
+{
+  "units_per_em": 1000,
+  "cap_height": 700,
+  "x_height": 440,
+  "records": [
+    {
+      "character": "A",
+      "unicode": "U+0041",
+      "glyph_name": "uni0041",
+      "source_window_px": [
+        90,
+        298,
+        245,
+        415
+      ],
+      "baseline_source_y": 392,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 31.794871794871824,
+      "advance_width": 1052,
+      "contours": 3,
+      "curve_segments": 91,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Swash capital: looped upper-left entry; curved left leg sweeps far left and returns; thin rising crossbar; heavy right diagonal ends in long rightward curl.",
+      "original_curve_segments": 100,
+      "max_smoothed_sample_movement_px": 1.248,
+      "original_advance_width": 1416,
+      "body_source_x": [
+        137,
+        211
+      ],
+      "body_sidebearings": [
+        35,
+        28
+      ],
+      "spacing_adjustment_units": [
+        355,
+        -30
+      ]
+    },
+    {
+      "character": "B",
+      "unicode": "U+0042",
+      "glyph_name": "uni0042",
+      "source_window_px": [
+        245,
+        298,
+        311,
+        415
+      ],
+      "baseline_source_y": 392,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": -27.67922815279949,
+      "advance_width": 518,
+      "contours": 3,
+      "curve_segments": 54,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Upright main stem; small upper bowl and larger lower bowl; sharp projecting top and foot serifs.",
+      "original_curve_segments": 51,
+      "max_smoothed_sample_movement_px": 1.104,
+      "original_advance_width": 604,
+      "body_source_x": [
+        245.81574314868806,
+        302.1376344952168
+      ],
+      "body_sidebearings": [
+        40,
+        28
+      ],
+      "spacing_adjustment_units": [
+        -5,
+        -50
+      ]
+    },
+    {
+      "character": "C",
+      "unicode": "U+0043",
+      "glyph_name": "uni0043",
+      "source_window_px": [
+        321,
+        298,
+        412,
+        415
+      ],
+      "baseline_source_y": 392,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 20.784204841025655,
+      "advance_width": 678,
+      "contours": 1,
+      "curve_segments": 35,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Open oval; heavy left curve, thin top and bottom; pointed upper-right terminal; fine lower-right rising terminal.",
+      "original_curve_segments": 48,
+      "max_smoothed_sample_movement_px": 2.218,
+      "original_advance_width": 777,
+      "body_source_x": [
+        328.330239968,
+        403.4062469571751
+      ],
+      "body_sidebearings": [
+        30,
+        24
+      ],
+      "spacing_adjustment_units": [
+        15,
+        -65
+      ]
+    },
+    {
+      "character": "D",
+      "unicode": "U+0044",
+      "glyph_name": "uni0044",
+      "source_window_px": [
+        419,
+        298,
+        528,
+        415
+      ],
+      "baseline_source_y": 392,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 80.12820512820514,
+      "advance_width": 815,
+      "contours": 2,
+      "curve_segments": 73,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Upright stem and broad rounded bowl; looped upper-left entry and curved lower-left swash extending below baseline.",
+      "original_curve_segments": 66,
+      "max_smoothed_sample_movement_px": 1.1875,
+      "original_advance_width": 911,
+      "body_source_x": [
+        453,
+        516
+      ],
+      "body_sidebearings": [
+        40,
+        30
+      ],
+      "spacing_adjustment_units": [
+        185,
+        -5
+      ]
+    },
+    {
+      "character": "E",
+      "unicode": "U+0045",
+      "glyph_name": "uni0045",
+      "source_window_px": [
+        540,
+        298,
+        618,
+        415
+      ],
+      "baseline_source_y": 392,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 42.447804487179255,
+      "advance_width": 559,
+      "contours": 1,
+      "curve_segments": 68,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Upright stem; long upper and lower arms, short central arm; wedge terminals; small curved detail at mid-left.",
+      "original_curve_segments": 55,
+      "max_smoothed_sample_movement_px": 1.204,
+      "original_advance_width": 678,
+      "body_source_x": [
+        547.5156125,
+        612.139025
+      ],
+      "body_sidebearings": [
+        40,
+        24
+      ],
+      "spacing_adjustment_units": [
+        -15,
+        -70
+      ]
+    },
+    {
+      "character": "F",
+      "unicode": "U+0046",
+      "glyph_name": "uni0046",
+      "source_window_px": [
+        630,
+        298,
+        717,
+        415
+      ],
+      "baseline_source_y": 392,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 81.60236924483861,
+      "advance_width": 470,
+      "contours": 1,
+      "curve_segments": 49,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Upright stem; long upper arm with rising pointed terminal; shorter middle arm; foot serifs; small curved mid-left detail.",
+      "original_curve_segments": 44,
+      "max_smoothed_sample_movement_px": 1.1507,
+      "original_advance_width": 682,
+      "body_source_x": [
+        641.3214068587106,
+        706.6999
+      ],
+      "body_sidebearings": [
+        40,
+        18
+      ],
+      "spacing_adjustment_units": [
+        -20,
+        -155
+      ]
+    },
+    {
+      "character": "G",
+      "unicode": "U+0047",
+      "glyph_name": "uni0047",
+      "source_window_px": [
+        716,
+        298,
+        805,
+        415
+      ],
+      "baseline_source_y": 392,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 60.72659482539606,
+      "advance_width": 640,
+      "contours": 1,
+      "curve_segments": 62,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Open rounded bowl; inward horizontal bar joins a right vertical spur that descends below the bowl and curves.",
+      "original_curve_segments": 65,
+      "max_smoothed_sample_movement_px": 1.2095,
+      "original_advance_width": 729,
+      "body_source_x": [
+        726.6666777091156,
+        797.9577
+      ],
+      "body_sidebearings": [
+        30,
+        30
+      ],
+      "spacing_adjustment_units": [
+        5,
+        -65
+      ]
+    },
+    {
+      "character": "H",
+      "unicode": "U+0048",
+      "glyph_name": "uni0048",
+      "source_window_px": [
+        820,
+        298,
+        907,
+        415
+      ],
+      "baseline_source_y": 392,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 42.85551282051322,
+      "advance_width": 651,
+      "contours": 1,
+      "curve_segments": 69,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Two upright stems with fine horizontal crossbar; flared pointed serifs at top and foot.",
+      "original_curve_segments": 50,
+      "max_smoothed_sample_movement_px": 1.1293,
+      "original_advance_width": 732,
+      "body_source_x": [
+        827.0039,
+        898.4691
+      ],
+      "body_sidebearings": [
+        40,
+        40
+      ],
+      "spacing_adjustment_units": [
+        -20,
+        -50
+      ]
+    },
+    {
+      "character": "I",
+      "unicode": "U+0049",
+      "glyph_name": "uni0049",
+      "source_window_px": [
+        920,
+        298,
+        963,
+        415
+      ],
+      "baseline_source_y": 392,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 56.1630724158656,
+      "advance_width": 233,
+      "contours": 1,
+      "curve_segments": 26,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Single upright stroke; symmetrical flared top and bottom serifs.",
+      "original_curve_segments": 17,
+      "max_smoothed_sample_movement_px": 1.1204,
+      "original_advance_width": 312,
+      "body_source_x": [
+        931.272456640625,
+        955.0494
+      ],
+      "body_sidebearings": [
+        40,
+        40
+      ],
+      "spacing_adjustment_units": [
+        5,
+        -65
+      ]
+    },
+    {
+      "character": "J",
+      "unicode": "U+004A",
+      "glyph_name": "uni004A",
+      "source_window_px": [
+        970,
+        298,
+        1042,
+        415
+      ],
+      "baseline_source_y": 392,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 29.43589743589699,
+      "advance_width": 495,
+      "contours": 1,
+      "curve_segments": 29,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Tall right stem with top serif; lower bowl curls left and up into an open hook.",
+      "original_curve_segments": 21,
+      "max_smoothed_sample_movement_px": 1.1472,
+      "original_advance_width": 570,
+      "body_source_x": [
+        977.18,
+        1029.5691138241923
+      ],
+      "body_sidebearings": [
+        15,
+        40
+      ],
+      "spacing_adjustment_units": [
+        20,
+        -50
+      ]
+    },
+    {
+      "character": "K",
+      "unicode": "U+004B",
+      "glyph_name": "uni004B",
+      "source_window_px": [
+        1057,
+        298,
+        1172,
+        415
+      ],
+      "baseline_source_y": 392,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 70.51282051282053,
+      "advance_width": 858,
+      "contours": 1,
+      "curve_segments": 71,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Upright stem with two diagonals; fine upper-right arm; heavy lower diagonal continues into a curled rightward swash.",
+      "original_curve_segments": 56,
+      "max_smoothed_sample_movement_px": 1.2281,
+      "original_advance_width": 967,
+      "body_source_x": [
+        1076,
+        1142
+      ],
+      "body_sidebearings": [
+        40,
+        16
+      ],
+      "spacing_adjustment_units": [
+        60,
+        150
+      ]
+    },
+    {
+      "character": "L",
+      "unicode": "U+004C",
+      "glyph_name": "uni004C",
+      "source_window_px": [
+        1178,
+        298,
+        1272,
+        415
+      ],
+      "baseline_source_y": 392,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 79.61538461538461,
+      "advance_width": 653,
+      "contours": 1,
+      "curve_segments": 50,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Upright stem; fine low horizontal foot extends right into an upturned curl; flared top serif.",
+      "original_curve_segments": 55,
+      "max_smoothed_sample_movement_px": 1.9751,
+      "original_advance_width": 781,
+      "body_source_x": [
+        1193,
+        1251
+      ],
+      "body_sidebearings": [
+        40,
+        12
+      ],
+      "spacing_adjustment_units": [
+        15,
+        65
+      ]
+    },
+    {
+      "character": "M",
+      "unicode": "U+004D",
+      "glyph_name": "uni004D",
+      "source_window_px": [
+        1272,
+        298,
+        1423,
+        415
+      ],
+      "baseline_source_y": 392,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 22.43589743589743,
+      "advance_width": 977,
+      "contours": 1,
+      "curve_segments": 106,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Two outer stems and diagonals meeting in a deep central vertex; curved upper-left entry; outward sweeping lower-right exit.",
+      "original_curve_segments": 131,
+      "max_smoothed_sample_movement_px": 1.2273,
+      "original_advance_width": 1284,
+      "body_source_x": [
+        1294,
+        1390
+      ],
+      "body_sidebearings": [
+        35,
+        35
+      ],
+      "spacing_adjustment_units": [
+        140,
+        -95
+      ]
+    },
+    {
+      "character": "N",
+      "unicode": "U+004E",
+      "glyph_name": "uni004E",
+      "source_window_px": [
+        98,
+        410,
+        206,
+        560
+      ],
+      "baseline_source_y": 508,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 92.43589743589743,
+      "advance_width": 699,
+      "contours": 1,
+      "curve_segments": 59,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Two stems linked by a heavy descending diagonal; looped upper-left entry; right diagonal/stem continues below baseline into a fine curved exit.",
+      "original_curve_segments": 52,
+      "max_smoothed_sample_movement_px": 1.6713,
+      "original_advance_width": 882,
+      "body_source_x": [
+        120,
+        184
+      ],
+      "body_sidebearings": [
+        35,
+        35
+      ],
+      "spacing_adjustment_units": [
+        70,
+        -15
+      ]
+    },
+    {
+      "character": "O",
+      "unicode": "U+004F",
+      "glyph_name": "uni004F",
+      "source_window_px": [
+        210,
+        410,
+        303,
+        560
+      ],
+      "baseline_source_y": 508,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 27.103962436063142,
+      "advance_width": 717,
+      "contours": 2,
+      "curve_segments": 8,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Upright oval; heavy left and right sides, thin top and bottom. Interior star belongs to artwork; do not assume a font counter ornament.",
+      "original_curve_segments": 47,
+      "max_smoothed_sample_movement_px": 3.2166,
+      "original_advance_width": 772,
+      "body_source_x": [
+        217.2544415285899,
+        293.1665589689791
+      ],
+      "body_sidebearings": [
+        28,
+        28
+      ],
+      "spacing_adjustment_units": [
+        10,
+        -30
+      ]
+    },
+    {
+      "character": "P",
+      "unicode": "U+0050",
+      "glyph_name": "uni0050",
+      "source_window_px": [
+        312,
+        410,
+        390,
+        560
+      ],
+      "baseline_source_y": 508,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 66.50011348770265,
+      "advance_width": 495,
+      "contours": 2,
+      "curve_segments": 44,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Upright stem and enclosed upper bowl; pointed foot serifs; small curled mid-left detail.",
+      "original_curve_segments": 42,
+      "max_smoothed_sample_movement_px": 1.1865,
+      "original_advance_width": 626,
+      "body_source_x": [
+        321.638584074344,
+        380.6975431925499
+      ],
+      "body_sidebearings": [
+        40,
+        20
+      ],
+      "spacing_adjustment_units": [
+        -20,
+        -75
+      ]
+    },
+    {
+      "character": "Q",
+      "unicode": "U+0051",
+      "glyph_name": "uni0051",
+      "source_window_px": [
+        397,
+        410,
+        523,
+        560
+      ],
+      "baseline_source_y": 508,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 46.74358974358975,
+      "advance_width": 703,
+      "contours": 2,
+      "curve_segments": 56,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Oval bowl; lower-right diagonal tail begins inside the lower counter and sweeps well below and right into a long curl.",
+      "original_curve_segments": 77,
+      "max_smoothed_sample_movement_px": 2.1978,
+      "original_advance_width": 1057,
+      "body_source_x": [
+        407,
+        483
+      ],
+      "body_sidebearings": [
+        28,
+        28
+      ],
+      "spacing_adjustment_units": [
+        15,
+        -50
+      ]
+    },
+    {
+      "character": "R",
+      "unicode": "U+0052",
+      "glyph_name": "uni0052",
+      "source_window_px": [
+        514,
+        410,
+        613,
+        560
+      ],
+      "baseline_source_y": 508,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 17.692307692307693,
+      "advance_width": 606,
+      "contours": 2,
+      "curve_segments": 53,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Upright stem and upper bowl; heavy diagonal leg ends in a long rightward curved swash.",
+      "original_curve_segments": 45,
+      "max_smoothed_sample_movement_px": 1.1919,
+      "original_advance_width": 882,
+      "body_source_x": [
+        526,
+        587
+      ],
+      "body_sidebearings": [
+        40,
+        14
+      ],
+      "spacing_adjustment_units": [
+        50,
+        -45
+      ]
+    },
+    {
+      "character": "S",
+      "unicode": "U+0053",
+      "glyph_name": "uni0053",
+      "source_window_px": [
+        609,
+        410,
+        684,
+        560
+      ],
+      "baseline_source_y": 508,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 36.00482221714247,
+      "advance_width": 516,
+      "contours": 1,
+      "curve_segments": 41,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Continuous double curve; thin joins and heavy curved strokes; pointed upper terminal, curled lower-left terminal.",
+      "original_curve_segments": 42,
+      "max_smoothed_sample_movement_px": 1.1298,
+      "original_advance_width": 615,
+      "body_source_x": [
+        615.2405373327673,
+        673.3383744097293
+      ],
+      "body_sidebearings": [
+        25,
+        25
+      ],
+      "spacing_adjustment_units": [
+        -5,
+        -50
+      ]
+    },
+    {
+      "character": "T",
+      "unicode": "U+0054",
+      "glyph_name": "uni0054",
+      "source_window_px": [
+        696,
+        410,
+        781,
+        560
+      ],
+      "baseline_source_y": 508,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 99.28532763532799,
+      "advance_width": 532,
+      "contours": 1,
+      "curve_segments": 43,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Wide thin top bar with pointed ends; central heavy vertical stem with flared foot.",
+      "original_curve_segments": 32,
+      "max_smoothed_sample_movement_px": 1.1096,
+      "original_advance_width": 718,
+      "body_source_x": [
+        704.7232222222223,
+        773.7472126953126
+      ],
+      "body_sidebearings": [
+        14,
+        14
+      ],
+      "spacing_adjustment_units": [
+        -35,
+        -80
+      ]
+    },
+    {
+      "character": "U",
+      "unicode": "U+0055",
+      "glyph_name": "uni0055",
+      "source_window_px": [
+        795,
+        410,
+        882,
+        560
+      ],
+      "baseline_source_y": 508,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 90.78467392272128,
+      "advance_width": 593,
+      "contours": 1,
+      "curve_segments": 41,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Two upright stems joined by rounded bottom; thin bottom curve and flared top serifs.",
+      "original_curve_segments": 32,
+      "max_smoothed_sample_movement_px": 1.0519,
+      "original_advance_width": 718,
+      "body_source_x": [
+        807.3445779513889,
+        875.1054613072878
+      ],
+      "body_sidebearings": [
+        35,
+        35
+      ],
+      "spacing_adjustment_units": [
+        -15,
+        -70
+      ]
+    },
+    {
+      "character": "V",
+      "unicode": "U+0056",
+      "glyph_name": "uni0056",
+      "source_window_px": [
+        892,
+        410,
+        990,
+        560
+      ],
+      "baseline_source_y": 508,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 214.6358974358975,
+      "advance_width": 465,
+      "contours": 1,
+      "curve_segments": 49,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Two diagonals meeting at a sharp low vertex; heavy left stroke, thin right stroke; flared top serifs.",
+      "original_curve_segments": 47,
+      "max_smoothed_sample_movement_px": 1.1319,
+      "original_advance_width": 794,
+      "body_source_x": [
+        906.668,
+        984.7582
+      ],
+      "body_sidebearings": [
+        12,
+        12
+      ],
+      "spacing_adjustment_units": [
+        -95,
+        -165
+      ]
+    },
+    {
+      "character": "W",
+      "unicode": "U+0057",
+      "glyph_name": "uni0057",
+      "source_window_px": [
+        999,
+        410,
+        1125,
+        560
+      ],
+      "baseline_source_y": 508,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 157.74358974358975,
+      "advance_width": 814,
+      "contours": 1,
+      "curve_segments": 71,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Four diagonal strokes forming two deep vertices; rightmost stroke rises into a high loop and curved terminal beyond cap height.",
+      "original_curve_segments": 99,
+      "max_smoothed_sample_movement_px": 1.1027,
+      "original_advance_width": 1091,
+      "body_source_x": [
+        1009,
+        1092
+      ],
+      "body_sidebearings": [
+        12,
+        12
+      ],
+      "spacing_adjustment_units": [
+        -80,
+        125
+      ]
+    },
+    {
+      "character": "X",
+      "unicode": "U+0058",
+      "glyph_name": "uni0058",
+      "source_window_px": [
+        1128,
+        410,
+        1263,
+        560
+      ],
+      "baseline_source_y": 508,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 124.38461538461539,
+      "advance_width": 841,
+      "contours": 1,
+      "curve_segments": 72,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Crossed diagonals; heavy descending stroke extends into long curled lower-right swash; fine opposing diagonal.",
+      "original_curve_segments": 72,
+      "max_smoothed_sample_movement_px": 1.1246,
+      "original_advance_width": 1174,
+      "body_source_x": [
+        1152,
+        1226
+      ],
+      "body_sidebearings": [
+        16,
+        16
+      ],
+      "spacing_adjustment_units": [
+        75,
+        70
+      ]
+    },
+    {
+      "character": "Y",
+      "unicode": "U+0059",
+      "glyph_name": "uni0059",
+      "source_window_px": [
+        1257,
+        410,
+        1349,
+        560
+      ],
+      "baseline_source_y": 508,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 101.71794871794872,
+      "advance_width": 424,
+      "contours": 1,
+      "curve_segments": 60,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Forked upper diagonals merge into descending stem; lower stem continues into a long left-curving hook below baseline.",
+      "original_curve_segments": 57,
+      "max_smoothed_sample_movement_px": 1.168,
+      "original_advance_width": 801,
+      "body_source_x": [
+        1268,
+        1331
+      ],
+      "body_sidebearings": [
+        12,
+        12
+      ],
+      "spacing_adjustment_units": [
+        -15,
+        -150
+      ]
+    },
+    {
+      "character": "Z",
+      "unicode": "U+005A",
+      "glyph_name": "uni005A",
+      "source_window_px": [
+        1349,
+        410,
+        1442,
+        560
+      ],
+      "baseline_source_y": 508,
+      "scale_units_per_pixel": 8.974358974358974,
+      "font_x_origin": 22.692307692307693,
+      "advance_width": 738,
+      "contours": 1,
+      "curve_segments": 44,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Thin broad top bar, descending diagonal, sweeping low bar continuing into an upturned loop at far right.",
+      "original_curve_segments": 56,
+      "max_smoothed_sample_movement_px": 1.1584,
+      "original_advance_width": 857,
+      "body_source_x": [
+        1361,
+        1417
+      ],
+      "body_sidebearings": [
+        20,
+        20
+      ],
+      "spacing_adjustment_units": [
+        65,
+        130
+      ]
+    },
+    {
+      "character": "a",
+      "unicode": "U+0061",
+      "glyph_name": "uni0061",
+      "source_window_px": [
+        289,
+        575,
+        352,
+        678
+      ],
+      "baseline_source_y": 648,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 51.30849560503616,
+      "advance_width": 480,
+      "contours": 2,
+      "curve_segments": 31,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Single-storey a: oval lower bowl with thin entry; right stem curves outward at foot.",
+      "original_curve_segments": 25,
+      "max_smoothed_sample_movement_px": 0.7617,
+      "original_advance_width": 584,
+      "body_source_x": [
+        295.9687847977649,
+        345.0299618332081
+      ],
+      "body_sidebearings": [
+        25,
+        23
+      ],
+      "spacing_adjustment_units": [
+        -5,
+        -65
+      ]
+    },
+    {
+      "character": "b",
+      "unicode": "U+0062",
+      "glyph_name": "uni0062",
+      "source_window_px": [
+        370,
+        575,
+        433,
+        678
+      ],
+      "baseline_source_y": 648,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 109.14865116279094,
+      "advance_width": 420,
+      "contours": 2,
+      "curve_segments": 35,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Tall ascending stem with angled top serif; rounded right bowl joins near x-height.",
+      "original_curve_segments": 27,
+      "max_smoothed_sample_movement_px": 0.6976,
+      "original_advance_width": 525,
+      "body_source_x": [
+        380.6668,
+        424.7955519724812
+      ],
+      "body_sidebearings": [
+        30,
+        23
+      ],
+      "spacing_adjustment_units": [
+        -30,
+        -55
+      ]
+    },
+    {
+      "character": "c",
+      "unicode": "U+0063",
+      "glyph_name": "uni0063",
+      "source_window_px": [
+        450,
+        575,
+        508,
+        678
+      ],
+      "baseline_source_y": 648,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 91.96354583980056,
+      "advance_width": 362,
+      "contours": 1,
+      "curve_segments": 15,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Open rounded curve; thick left side; tapered upper and lower right terminals.",
+      "original_curve_segments": 10,
+      "max_smoothed_sample_movement_px": 0.7475,
+      "original_advance_width": 435,
+      "body_source_x": [
+        461.13734652525324,
+        496.15599662545435
+      ],
+      "body_sidebearings": [
+        22,
+        22
+      ],
+      "spacing_adjustment_units": [
+        0,
+        -40
+      ]
+    },
+    {
+      "character": "d",
+      "unicode": "U+0064",
+      "glyph_name": "uni0064",
+      "source_window_px": [
+        524,
+        575,
+        584,
+        678
+      ],
+      "baseline_source_y": 648,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 75.2958357903245,
+      "advance_width": 457,
+      "contours": 2,
+      "curve_segments": 34,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Rounded left bowl; tall right ascender with curved top flag and flared foot.",
+      "original_curve_segments": 24,
+      "max_smoothed_sample_movement_px": 0.8793,
+      "original_advance_width": 558,
+      "body_source_x": [
+        532.6289112249635,
+        579.9621
+      ],
+      "body_sidebearings": [
+        23,
+        30
+      ],
+      "spacing_adjustment_units": [
+        -10,
+        -70
+      ]
+    },
+    {
+      "character": "e",
+      "unicode": "U+0065",
+      "glyph_name": "uni0065",
+      "source_window_px": [
+        604,
+        575,
+        666,
+        678
+      ],
+      "baseline_source_y": 648,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 98.136121713384,
+      "advance_width": 373,
+      "contours": 2,
+      "curve_segments": 21,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Open rounded bowl with rising diagonal inner cross-stroke; small upper counter.",
+      "original_curve_segments": 15,
+      "max_smoothed_sample_movement_px": 0.8903,
+      "original_advance_width": 458,
+      "body_source_x": [
+        615.7405755310807,
+        652.534575462963
+      ],
+      "body_sidebearings": [
+        22,
+        20
+      ],
+      "spacing_adjustment_units": [
+        0,
+        -45
+      ]
+    },
+    {
+      "character": "f",
+      "unicode": "U+0066",
+      "glyph_name": "uni0066",
+      "source_window_px": [
+        675,
+        575,
+        737,
+        678
+      ],
+      "baseline_source_y": 648,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 129.88372093023256,
+      "advance_width": 318,
+      "contours": 1,
+      "curve_segments": 45,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Tall curved ascender ends in a hook; short horizontal crossbar; descending stem curls left below baseline.",
+      "original_curve_segments": 31,
+      "max_smoothed_sample_movement_px": 0.792,
+      "original_advance_width": 568,
+      "body_source_x": [
+        696,
+        717
+      ],
+      "body_sidebearings": [
+        10,
+        8
+      ],
+      "spacing_adjustment_units": [
+        75,
+        10
+      ]
+    },
+    {
+      "character": "g",
+      "unicode": "U+0067",
+      "glyph_name": "uni0067",
+      "source_window_px": [
+        741,
+        575,
+        808,
+        678
+      ],
+      "baseline_source_y": 648,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 126.20725581395308,
+      "advance_width": 402,
+      "contours": 3,
+      "curve_segments": 40,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Two-storey g: small upper bowl, distinct lower loop, fine connecting stroke; rising ear curls at upper right.",
+      "original_curve_segments": 30,
+      "max_smoothed_sample_movement_px": 0.5154,
+      "original_advance_width": 517,
+      "body_source_x": [
+        753.7248,
+        796.809056022224
+      ],
+      "body_sidebearings": [
+        24,
+        22
+      ],
+      "spacing_adjustment_units": [
+        -20,
+        -65
+      ]
+    },
+    {
+      "character": "h",
+      "unicode": "U+0068",
+      "glyph_name": "uni0068",
+      "source_window_px": [
+        824,
+        575,
+        886,
+        678
+      ],
+      "baseline_source_y": 648,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 99.66697674418631,
+      "advance_width": 439,
+      "contours": 1,
+      "curve_segments": 38,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Tall left ascender with angled head; rounded shoulder into right stem and flared foot.",
+      "original_curve_segments": 27,
+      "max_smoothed_sample_movement_px": 0.7731,
+      "original_advance_width": 522,
+      "body_source_x": [
+        836.672,
+        880.111558309038
+      ],
+      "body_sidebearings": [
+        30,
+        25
+      ],
+      "spacing_adjustment_units": [
+        0,
+        -60
+      ]
+    },
+    {
+      "character": "i",
+      "unicode": "U+0069",
+      "glyph_name": "uni0069",
+      "source_window_px": [
+        910,
+        575,
+        954,
+        678
+      ],
+      "baseline_source_y": 648,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 98.26167441860414,
+      "advance_width": 193,
+      "contours": 2,
+      "curve_segments": 23,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Short upright stem with flared foot; separate diamond-shaped dot.",
+      "original_curve_segments": 18,
+      "max_smoothed_sample_movement_px": 0.6938,
+      "original_advance_width": 264,
+      "body_source_x": [
+        923.0233,
+        941.3699
+      ],
+      "body_sidebearings": [
+        25,
+        25
+      ],
+      "spacing_adjustment_units": [
+        10,
+        -55
+      ]
+    },
+    {
+      "character": "j",
+      "unicode": "U+006A",
+      "glyph_name": "uni006A",
+      "source_window_px": [
+        963,
+        575,
+        1014,
+        678
+      ],
+      "baseline_source_y": 648,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 213.34883720930233,
+      "advance_width": 202,
+      "contours": 2,
+      "curve_segments": 31,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Short upright stem with diamond-shaped dot; descender hooks left and upward.",
+      "original_curve_segments": 24,
+      "max_smoothed_sample_movement_px": 0.7898,
+      "original_advance_width": 430,
+      "body_source_x": [
+        986,
+        1006
+      ],
+      "body_sidebearings": [
+        12,
+        25
+      ],
+      "spacing_adjustment_units": [
+        10,
+        -50
+      ]
+    },
+    {
+      "character": "k",
+      "unicode": "U+006B",
+      "glyph_name": "uni006B",
+      "source_window_px": [
+        1035,
+        575,
+        1120,
+        678
+      ],
+      "baseline_source_y": 648,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 77.55813953488372,
+      "advance_width": 424,
+      "contours": 1,
+      "curve_segments": 49,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Tall left ascender; short upper diagonal; lower diagonal sweeps below and right into a curled swash.",
+      "original_curve_segments": 40,
+      "max_smoothed_sample_movement_px": 0.7652,
+      "original_advance_width": 822,
+      "body_source_x": [
+        1046,
+        1084
+      ],
+      "body_sidebearings": [
+        30,
+        15
+      ],
+      "spacing_adjustment_units": [
+        5,
+        -15
+      ]
+    },
+    {
+      "character": "l",
+      "unicode": "U+006C",
+      "glyph_name": "uni006C",
+      "source_window_px": [
+        1116,
+        575,
+        1157,
+        678
+      ],
+      "baseline_source_y": 648,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 52.951627906976114,
+      "advance_width": 193,
+      "contours": 1,
+      "curve_segments": 19,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Tall single ascender with angled top and flared foot.",
+      "original_curve_segments": 13,
+      "max_smoothed_sample_movement_px": 0.7396,
+      "original_advance_width": 266,
+      "body_source_x": [
+        1123.618,
+        1142.4918
+      ],
+      "body_sidebearings": [
+        25,
+        25
+      ],
+      "spacing_adjustment_units": [
+        0,
+        -50
+      ]
+    },
+    {
+      "character": "m",
+      "unicode": "U+006D",
+      "glyph_name": "uni006D",
+      "source_window_px": [
+        1176,
+        575,
+        1259,
+        678
+      ],
+      "baseline_source_y": 648,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 57.12111227906928,
+      "advance_width": 633,
+      "contours": 1,
+      "curve_segments": 51,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Three short stems joined by two rounded shoulders; angled left entry; curved right exit.",
+      "original_curve_segments": 37,
+      "max_smoothed_sample_movement_px": 0.7677,
+      "original_advance_width": 765,
+      "body_source_x": [
+        1184.5141087,
+        1251.2477
+      ],
+      "body_sidebearings": [
+        30,
+        25
+      ],
+      "spacing_adjustment_units": [
+        0,
+        -105
+      ]
+    },
+    {
+      "character": "n",
+      "unicode": "U+006E",
+      "glyph_name": "uni006E",
+      "source_window_px": [
+        289,
+        675,
+        354,
+        762
+      ],
+      "baseline_source_y": 728,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 81.58708410465135,
+      "advance_width": 418,
+      "contours": 1,
+      "curve_segments": 33,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Two short stems joined by rounded shoulder; angled entry and curved right exit.",
+      "original_curve_segments": 22,
+      "max_smoothed_sample_movement_px": 0.7882,
+      "original_advance_width": 553,
+      "body_source_x": [
+        299.4164650375,
+        345.65160000000003
+      ],
+      "body_sidebearings": [
+        30,
+        25
+      ],
+      "spacing_adjustment_units": [
+        -5,
+        -105
+      ]
+    },
+    {
+      "character": "o",
+      "unicode": "U+006F",
+      "glyph_name": "uni006F",
+      "source_window_px": [
+        371,
+        675,
+        428,
+        762
+      ],
+      "baseline_source_y": 728,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 57.22381926997802,
+      "advance_width": 416,
+      "contours": 2,
+      "curve_segments": 8,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Small upright oval with heavy sides and thin top and bottom.",
+      "original_curve_segments": 11,
+      "max_smoothed_sample_movement_px": 1.9757,
+      "original_advance_width": 494,
+      "body_source_x": [
+        378.8400550650206,
+        419.86524493497944
+      ],
+      "body_sidebearings": [
+        23,
+        23
+      ],
+      "spacing_adjustment_units": [
+        0,
+        -50
+      ]
+    },
+    {
+      "character": "p",
+      "unicode": "U+0070",
+      "glyph_name": "uni0070",
+      "source_window_px": [
+        446,
+        675,
+        507,
+        762
+      ],
+      "baseline_source_y": 728,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 88.23528478004286,
+      "advance_width": 416,
+      "contours": 2,
+      "curve_segments": 39,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Short right bowl attached to left stem; stem descends with pointed/flared foot.",
+      "original_curve_segments": 25,
+      "max_smoothed_sample_movement_px": 0.7524,
+      "original_advance_width": 545,
+      "body_source_x": [
+        452.66844828532237,
+        497.9266991714881
+      ],
+      "body_sidebearings": [
+        30,
+        23
+      ],
+      "spacing_adjustment_units": [
+        -50,
+        -50
+      ]
+    },
+    {
+      "character": "q",
+      "unicode": "U+0071",
+      "glyph_name": "uni0071",
+      "source_window_px": [
+        525,
+        675,
+        583,
+        762
+      ],
+      "baseline_source_y": 728,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 80.20619526789278,
+      "advance_width": 391,
+      "contours": 2,
+      "curve_segments": 32,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Rounded left bowl with right stem descending to a flared foot.",
+      "original_curve_segments": 24,
+      "max_smoothed_sample_movement_px": 0.437,
+      "original_advance_width": 479,
+      "body_source_x": [
+        534.5974236284532,
+        573.9543655761719
+      ],
+      "body_sidebearings": [
+        23,
+        30
+      ],
+      "spacing_adjustment_units": [
+        -5,
+        -60
+      ]
+    },
+    {
+      "character": "r",
+      "unicode": "U+0072",
+      "glyph_name": "uni0072",
+      "source_window_px": [
+        599,
+        675,
+        649,
+        762
+      ],
+      "baseline_source_y": 728,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 110.32670275274415,
+      "advance_width": 303,
+      "contours": 1,
+      "curve_segments": 24,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Short stem with rising shoulder ending in a rounded/beaked terminal; no full right stem.",
+      "original_curve_segments": 18,
+      "max_smoothed_sample_movement_px": 0.7359,
+      "original_advance_width": 402,
+      "body_source_x": [
+        612.2251095872,
+        643.5314927628584
+      ],
+      "body_sidebearings": [
+        30,
+        8
+      ],
+      "spacing_adjustment_units": [
+        -5,
+        -50
+      ]
+    },
+    {
+      "character": "s",
+      "unicode": "U+0073",
+      "glyph_name": "uni0073",
+      "source_window_px": [
+        668,
+        675,
+        716,
+        762
+      ],
+      "baseline_source_y": 728,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 65.16857938567851,
+      "advance_width": 309,
+      "contours": 1,
+      "curve_segments": 27,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Small double curve; fine central connection and pointed upper terminal.",
+      "original_curve_segments": 29,
+      "max_smoothed_sample_movement_px": 0.6855,
+      "original_advance_width": 389,
+      "body_source_x": [
+        677.3005657126913,
+        707.4907699811328
+      ],
+      "body_sidebearings": [
+        20,
+        20
+      ],
+      "spacing_adjustment_units": [
+        10,
+        -50
+      ]
+    },
+    {
+      "character": "t",
+      "unicode": "U+0074",
+      "glyph_name": "uni0074",
+      "source_window_px": [
+        735,
+        675,
+        779,
+        762
+      ],
+      "baseline_source_y": 728,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 64.57618604651117,
+      "advance_width": 254,
+      "contours": 1,
+      "curve_segments": 23,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Stem rises modestly above x-height; short crossbar; rounded right-curving foot.",
+      "original_curve_segments": 16,
+      "max_smoothed_sample_movement_px": 0.8645,
+      "original_advance_width": 356,
+      "body_source_x": [
+        742.1904,
+        769.5160099125364
+      ],
+      "body_sidebearings": [
+        14,
+        10
+      ],
+      "spacing_adjustment_units": [
+        -5,
+        -45
+      ]
+    },
+    {
+      "character": "u",
+      "unicode": "U+0075",
+      "glyph_name": "uni0075",
+      "source_window_px": [
+        794,
+        675,
+        857,
+        762
+      ],
+      "baseline_source_y": 728,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 91.37726311926495,
+      "advance_width": 428,
+      "contours": 1,
+      "curve_segments": 32,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Two short stems joined by curved bottom; right stem has outward foot.",
+      "original_curve_segments": 24,
+      "max_smoothed_sample_movement_px": 0.7571,
+      "original_advance_width": 520,
+      "body_source_x": [
+        805.6664143502918,
+        847.8715
+      ],
+      "body_sidebearings": [
+        28,
+        28
+      ],
+      "spacing_adjustment_units": [
+        0,
+        -60
+      ]
+    },
+    {
+      "character": "v",
+      "unicode": "U+0076",
+      "glyph_name": "uni0076",
+      "source_window_px": [
+        874,
+        675,
+        932,
+        762
+      ],
+      "baseline_source_y": 728,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 78.08874418604636,
+      "advance_width": 393,
+      "contours": 1,
+      "curve_segments": 26,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Two diagonals meeting at low pointed vertex; heavy left diagonal and fine right diagonal.",
+      "original_curve_segments": 29,
+      "max_smoothed_sample_movement_px": 0.7886,
+      "original_advance_width": 522,
+      "body_source_x": [
+        881.6314,
+        924.9053
+      ],
+      "body_sidebearings": [
+        10,
+        10
+      ],
+      "spacing_adjustment_units": [
+        -10,
+        -60
+      ]
+    },
+    {
+      "character": "w",
+      "unicode": "U+0077",
+      "glyph_name": "uni0077",
+      "source_window_px": [
+        944,
+        675,
+        1028,
+        762
+      ],
+      "baseline_source_y": 728,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 102.41613168724324,
+      "advance_width": 608,
+      "contours": 1,
+      "curve_segments": 50,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Four short diagonals forming two low vertices; flared upper terminals.",
+      "original_curve_segments": 49,
+      "max_smoothed_sample_movement_px": 0.7926,
+      "original_advance_width": 740,
+      "body_source_x": [
+        954.4974855967079,
+        1018.3351
+      ],
+      "body_sidebearings": [
+        10,
+        10
+      ],
+      "spacing_adjustment_units": [
+        -5,
+        -60
+      ]
+    },
+    {
+      "character": "x",
+      "unicode": "U+0078",
+      "glyph_name": "uni0078",
+      "source_window_px": [
+        1035,
+        675,
+        1105,
+        762
+      ],
+      "baseline_source_y": 728,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 137.1184801894908,
+      "advance_width": 460,
+      "contours": 1,
+      "curve_segments": 46,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Two crossing diagonals, one heavy and one fine; small flared terminal serifs.",
+      "original_curve_segments": 41,
+      "max_smoothed_sample_movement_px": 0.7941,
+      "original_advance_width": 576,
+      "body_source_x": [
+        1049.0843060185184,
+        1097.5637
+      ],
+      "body_sidebearings": [
+        12,
+        12
+      ],
+      "spacing_adjustment_units": [
+        -5,
+        -55
+      ]
+    },
+    {
+      "character": "y",
+      "unicode": "U+0079",
+      "glyph_name": "uni0079",
+      "source_window_px": [
+        1110,
+        675,
+        1184,
+        762
+      ],
+      "baseline_source_y": 728,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 216.04651162790697,
+      "advance_width": 434,
+      "contours": 1,
+      "curve_segments": 44,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Forked upper strokes; right stroke continues below baseline and curls far left into a hook.",
+      "original_curve_segments": 38,
+      "max_smoothed_sample_movement_px": 0.8144,
+      "original_advance_width": 689,
+      "body_source_x": [
+        1136,
+        1176
+      ],
+      "body_sidebearings": [
+        10,
+        10
+      ],
+      "spacing_adjustment_units": [
+        40,
+        -35
+      ]
+    },
+    {
+      "character": "z",
+      "unicode": "U+007A",
+      "glyph_name": "uni007A",
+      "source_window_px": [
+        1195,
+        675,
+        1260,
+        762
+      ],
+      "baseline_source_y": 728,
+      "scale_units_per_pixel": 10.232558139534884,
+      "font_x_origin": 128.54660465116268,
+      "advance_width": 394,
+      "contours": 1,
+      "curve_segments": 34,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Short top and bottom bars joined by diagonal; lower bar has a subtle rising right terminal.",
+      "original_curve_segments": 34,
+      "max_smoothed_sample_movement_px": 0.4277,
+      "original_advance_width": 494,
+      "body_source_x": [
+        1209.3216,
+        1250.1756817374867
+      ],
+      "body_sidebearings": [
+        18,
+        18
+      ],
+      "spacing_adjustment_units": [
+        0,
+        -60
+      ]
+    },
+    {
+      "character": "0",
+      "unicode": "U+0030",
+      "glyph_name": "uni0030",
+      "source_window_px": [
+        357,
+        787,
+        437,
+        893
+      ],
+      "baseline_source_y": 868,
+      "scale_units_per_pixel": 9.58904109589041,
+      "font_x_origin": 54.66440282229682,
+      "advance_width": 611,
+      "contours": 2,
+      "curve_segments": 8,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Narrow upright oval; heavy sides, thin top/bottom; unslashed. Interior star is artwork unless explicitly adopted.",
+      "original_curve_segments": 55,
+      "max_smoothed_sample_movement_px": 3.1051,
+      "original_advance_width": 650,
+      "body_source_x": [
+        366.55928772289667,
+        426.78421312769854
+      ],
+      "body_sidebearings": [
+        32,
+        32
+      ],
+      "spacing_adjustment_units": [
+        5,
+        -35
+      ]
+    },
+    {
+      "character": "1",
+      "unicode": "U+0031",
+      "glyph_name": "uni0031",
+      "source_window_px": [
+        451,
+        787,
+        499,
+        893
+      ],
+      "baseline_source_y": 868,
+      "scale_units_per_pixel": 9.58904109589041,
+      "font_x_origin": 98.03724850171258,
+      "advance_width": 237,
+      "contours": 1,
+      "curve_segments": 30,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Angled flag at top of upright stem; wide flared baseline foot.",
+      "original_curve_segments": 19,
+      "max_smoothed_sample_movement_px": 1.1442,
+      "original_advance_width": 314,
+      "body_source_x": [
+        464.56102734375,
+        488.8417
+      ],
+      "body_sidebearings": [
+        32,
+        32
+      ],
+      "spacing_adjustment_units": [
+        0,
+        -60
+      ]
+    },
+    {
+      "character": "2",
+      "unicode": "U+0032",
+      "glyph_name": "uni0032",
+      "source_window_px": [
+        513,
+        787,
+        584,
+        893
+      ],
+      "baseline_source_y": 868,
+      "scale_units_per_pixel": 9.58904109589041,
+      "font_x_origin": 77.66168438356185,
+      "advance_width": 476,
+      "contours": 1,
+      "curve_segments": 50,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Rounded upper hook; descending curved diagonal; long baseline foot with upturned pointed terminal.",
+      "original_curve_segments": 47,
+      "max_smoothed_sample_movement_px": 2.2286,
+      "original_advance_width": 571,
+      "body_source_x": [
+        522.3504328,
+        573.6827234375
+      ],
+      "body_sidebearings": [
+        32,
+        32
+      ],
+      "spacing_adjustment_units": [
+        -20,
+        -60
+      ]
+    },
+    {
+      "character": "3",
+      "unicode": "U+0033",
+      "glyph_name": "uni0033",
+      "source_window_px": [
+        596,
+        787,
+        666,
+        893
+      ],
+      "baseline_source_y": 868,
+      "scale_units_per_pixel": 9.58904109589041,
+      "font_x_origin": 58.27529702024242,
+      "advance_width": 489,
+      "contours": 1,
+      "curve_segments": 34,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Two right-facing bowls; smaller upper bowl; open left terminals; fine central join.",
+      "original_curve_segments": 30,
+      "max_smoothed_sample_movement_px": 1.9207,
+      "original_advance_width": 578,
+      "body_source_x": [
+        603.8501381178253,
+        656.0307649156281
+      ],
+      "body_sidebearings": [
+        32,
+        32
+      ],
+      "spacing_adjustment_units": [
+        -15,
+        -60
+      ]
+    },
+    {
+      "character": "4",
+      "unicode": "U+0034",
+      "glyph_name": "uni0034",
+      "source_window_px": [
+        679,
+        787,
+        747,
+        893
+      ],
+      "baseline_source_y": 868,
+      "scale_units_per_pixel": 9.58904109589041,
+      "font_x_origin": 56.825501817165176,
+      "advance_width": 486,
+      "contours": 2,
+      "curve_segments": 53,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Open-top 4: rising diagonal and horizontal crossbar; tall right stem extends below baseline into pointed ornamental foot.",
+      "original_curve_segments": 49,
+      "max_smoothed_sample_movement_px": 1.1518,
+      "original_advance_width": 607,
+      "body_source_x": [
+        685.1346594752187,
+        739.0368766763848
+      ],
+      "body_sidebearings": [
+        32,
+        32
+      ],
+      "spacing_adjustment_units": [
+        -30,
+        -65
+      ]
+    },
+    {
+      "character": "5",
+      "unicode": "U+0035",
+      "glyph_name": "uni0035",
+      "source_window_px": [
+        763,
+        787,
+        833,
+        893
+      ],
+      "baseline_source_y": 868,
+      "scale_units_per_pixel": 9.58904109589041,
+      "font_x_origin": 56.39513628895686,
+      "advance_width": 492,
+      "contours": 1,
+      "curve_segments": 31,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Short upper bar with raised right terminal; left descending section connects to rounded lower bowl.",
+      "original_curve_segments": 32,
+      "max_smoothed_sample_movement_px": 0.8746,
+      "original_advance_width": 568,
+      "body_source_x": [
+        770.6540642129912,
+        822.1026159352675
+      ],
+      "body_sidebearings": [
+        32,
+        32
+      ],
+      "spacing_adjustment_units": [
+        -15,
+        -50
+      ]
+    },
+    {
+      "character": "6",
+      "unicode": "U+0036",
+      "glyph_name": "uni0036",
+      "source_window_px": [
+        844,
+        787,
+        919,
+        893
+      ],
+      "baseline_source_y": 868,
+      "scale_units_per_pixel": 9.58904109589041,
+      "font_x_origin": 52.75962685729614,
+      "advance_width": 530,
+      "contours": 2,
+      "curve_segments": 27,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Open ascending curve narrowing at upper terminal; enclosed rounded lower bowl.",
+      "original_curve_segments": 22,
+      "max_smoothed_sample_movement_px": 2.1155,
+      "original_advance_width": 597,
+      "body_source_x": [
+        852.8392182294037,
+        907.1642473184633
+      ],
+      "body_sidebearings": [
+        32,
+        32
+      ],
+      "spacing_adjustment_units": [
+        0,
+        -55
+      ]
+    },
+    {
+      "character": "7",
+      "unicode": "U+0037",
+      "glyph_name": "uni0037",
+      "source_window_px": [
+        928,
+        787,
+        1002,
+        893
+      ],
+      "baseline_source_y": 868,
+      "scale_units_per_pixel": 9.58904109589041,
+      "font_x_origin": 91.12746484724612,
+      "advance_width": 378,
+      "contours": 1,
+      "curve_segments": 34,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Broad top bar; long descending diagonal curves near lower end and extends below neighboring baseline.",
+      "original_curve_segments": 35,
+      "max_smoothed_sample_movement_px": 1.6628,
+      "original_advance_width": 585,
+      "body_source_x": [
+        937.1904356197842,
+        989.2603736
+      ],
+      "body_sidebearings": [
+        32,
+        32
+      ],
+      "spacing_adjustment_units": [
+        -35,
+        -150
+      ]
+    },
+    {
+      "character": "8",
+      "unicode": "U+0038",
+      "glyph_name": "uni0038",
+      "source_window_px": [
+        1008,
+        787,
+        1080,
+        893
+      ],
+      "baseline_source_y": 868,
+      "scale_units_per_pixel": 9.58904109589041,
+      "font_x_origin": 85.08233159013672,
+      "advance_width": 488,
+      "contours": 3,
+      "curve_segments": 39,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Two enclosed loops; smaller upper loop and larger lower loop; diagonal central crossing.",
+      "original_curve_segments": 48,
+      "max_smoothed_sample_movement_px": 1.6141,
+      "original_advance_width": 595,
+      "body_source_x": [
+        1018.1243002944,
+        1070.6753691658093
+      ],
+      "body_sidebearings": [
+        32,
+        32
+      ],
+      "spacing_adjustment_units": [
+        -20,
+        -60
+      ]
+    },
+    {
+      "character": "9",
+      "unicode": "U+0039",
+      "glyph_name": "uni0039",
+      "source_window_px": [
+        1098,
+        787,
+        1172,
+        893
+      ],
+      "baseline_source_y": 868,
+      "scale_units_per_pixel": 9.58904109589041,
+      "font_x_origin": 59.28685205864507,
+      "advance_width": 530,
+      "contours": 2,
+      "curve_segments": 35,
+      "outline_status": "smoothed cubic master; spacing and kerning v0.2",
+      "notes": "Enclosed upper bowl; right curve descends and tapers toward lower left; open lower section.",
+      "original_curve_segments": 49,
+      "max_smoothed_sample_movement_px": 1.7617,
+      "original_advance_width": 578,
+      "body_source_x": [
+        1108.0413431432587,
+        1160.2853513552395
+      ],
+      "body_sidebearings": [
+        32,
+        32
+      ],
+      "spacing_adjustment_units": [
+        5,
+        -40
+      ]
+    }
+  ]
+}
