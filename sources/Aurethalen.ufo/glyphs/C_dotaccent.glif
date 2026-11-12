@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cdotaccent" format="2">
+  <advance width="678.0"/>
+  <unicode hex="010A"/>
+  <anchor x="381.8795185411702" y="929.7082214355469" name="top"/>
+  <anchor x="381.8795185411702" y="0.0" name="bottom"/>
+  <anchor x="592.8922191847374" y="26.712299747911562" name="ogonek"/>
+  <anchor x="706.4964599609375" y="614.2602931454481" name="side"/>
+  <outline>
+    <component base="uni0043"/>
+    <component base="dotaccentcomb.case" xOffset="381.8795185411702" yOffset="805.92822265625"/>
+  </outline>
+</glyph>
