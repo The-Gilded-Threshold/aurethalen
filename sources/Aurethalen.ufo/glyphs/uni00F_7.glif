@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00F7" format="2">
+  <advance width="630"/>
+  <unicode hex="00F7"/>
+  <note>
+New punctuation designed to accompany the original lettering.
+</note>
+  <outline>
+    <contour>
+      <point x="60.0" y="285.0" type="line"/>
+      <point x="60.0" y="315.0" type="line"/>
+      <point x="570.0" y="315.0" type="line"/>
+      <point x="570.0" y="285.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="315.0" y="537.0" type="line"/>
+      <point x="347.0" y="505.0" type="line"/>
+      <point x="315.0" y="473.0" type="line"/>
+      <point x="283.0" y="505.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="315.0" y="127.0" type="line"/>
+      <point x="347.0" y="95.0" type="line"/>
+      <point x="315.0" y="63.0" type="line"/>
+      <point x="283.0" y="95.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

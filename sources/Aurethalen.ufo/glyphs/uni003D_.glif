@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni003D" format="2">
+  <advance width="630"/>
+  <unicode hex="003D"/>
+  <note>
+New punctuation designed to accompany the original lettering.
+</note>
+  <outline>
+    <contour>
+      <point x="60.0" y="365.0" type="line"/>
+      <point x="60.0" y="394.0" type="line"/>
+      <point x="570.0" y="394.0" type="line"/>
+      <point x="570.0" y="365.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="60.0" y="205.0" type="line"/>
+      <point x="60.0" y="234.0" type="line"/>
+      <point x="570.0" y="234.0" type="line"/>
+      <point x="570.0" y="205.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

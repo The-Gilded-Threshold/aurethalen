@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00B7" format="2">
+  <advance width="170"/>
+  <unicode hex="00B7"/>
+  <note>
+New punctuation designed to accompany the original lettering.
+</note>
+  <outline>
+    <contour>
+      <point x="85.0" y="317.0" type="line"/>
+      <point x="117.0" y="285.0" type="line"/>
+      <point x="85.0" y="253.0" type="line"/>
+      <point x="53.0" y="285.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
