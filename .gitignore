@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.build/
+qa-output/
+fontbakery-*.json
+fontbakery-*.html
+fontbakery-*.log

@@ -1,37 +1,57 @@
 # Aurethalen
 
-An ornamental Latin display typeface by **The Gilded Threshold**, with pointed serifs, strong stroke contrast and sweeping flourishes. Made for book covers, headings, invitations and imaginative storytelling.
+An ornamental Latin display typeface by **The Gilded Threshold**, with pointed serifs, strong stroke contrast and sweeping flourishes. Designed for book covers, headings, invitations and imaginative storytelling.
 
-![Aurethalen](aurethalen.png)
+![Aurethalen specimen](documentation/article/aurethalen.png)
 
-## Download
+## Download and use
 
-- [Installable desktop font — Aurethalen-Regular.ttf](Aurethalen-Regular.ttf)
-- [Complete package — Aurethalen-v1.101.zip](Aurethalen-v1.101.zip), including editable UFO sources, build files, desktop/web fonts, specimen images and documentation
-- [Webfont — Aurethalen-Regular.woff2](Aurethalen-Regular.woff2)
+[Complete package — Aurethalen-v1.101.zip](Aurethalen-v1.101.zip).
 
-Open the TTF on Windows or macOS and choose Install. In your app, select **Aurethalen**. Enable kerning and standard ligatures where available, and allow room for its flourishes.
+The desktop font is [Aurethalen-Regular.ttf](fonts/ttf/Aurethalen-Regular.ttf). Open that file on Windows or macOS and choose Install. The webfont is [Aurethalen-Regular.woff2](fonts/webfonts/Aurethalen-Regular.woff2).
 
-Version 1.101 has all 319 required Google Fonts Latin Core codepoints, 379 Unicode mappings and 423 glyphs. It includes accented letters, combining marks, punctuation, symbols, ff/fi/fl/ffi/ffl ligatures, tabular figures, superscripts, subscripts and fractions.
+Version 1.101 includes all 319 required Google Fonts Latin Core codepoints, 379 Unicode mappings and 423 glyphs. Features include standard ff/fi/fl/ffi/ffl ligatures, kerning, combining-accent attachment, stacked accents, tabular figures, superscripts, subscripts and fractions. Enable kerning and standard ligatures where supported, and leave space for the flourishes.
 
-## Free and open
+This is an independent release. Aurethalen has not been accepted into or published by Google Fonts.
 
-The font and design sources are licensed under **SIL Open Font License 1.1**. Personal and commercial use are permitted under its terms; see [OFL.txt](OFL.txt). No Reserved Font Name is declared.
+## License
 
-The font specimen images use [CC BY-SA 4.0](specimen-image-license.txt). The lantern-and-arch profile PNG has a separate [CC BY-SA 4.0 notice](profile-image-license.txt). These image grants do not cover the complete tarot cover or other studio artwork. Refer to the notices within the full ZIP for the corresponding image paths and attribution.
+The font software and its design sources are licensed under the **SIL Open Font License 1.1**; see [OFL.txt](OFL.txt). No Reserved Font Name is declared. The font may be used in personal and commercial projects under those terms.
 
-## Sources and build
+The three specimen images are licensed under **CC BY-SA 4.0**; see [image-license.txt](documentation/image-license.txt). The lantern-and-arch studio profile PNG has its own [CC BY-SA notice](documentation/designer-profile/image-license.txt). Those image licenses do not cover the full tarot cover or other studio artwork.
 
-Extract the complete ZIP. Its root contains `sources/Aurethalen.ufo`, the authoritative editable master, plus build requirements and documentation. With Python 3.12 and a virtual environment, install `requirements.txt` and run `python sources/build.py`. That builds TTF and WOFF2 without overwriting the master. Historical derivation inputs retain their original names for provenance.
+## Build
 
-## Creation and validation
+Use Python 3.12 and an isolated environment:
 
-The source lettering image was generated in Microsoft Edge's AI theme generator using the owner's description: “mystical, dark mode. make the text a bright vibrant gold”. No external image or font sample was identified by the owner. AI assistance also supported tracing, added-character construction, font engineering and documentation. The studio emblem was created with ChatGPT from the owner's descriptions, without reference material or other parties, and adapted from the approved print cover for the profile PNG.
+```text
+python -m venv .venv
+```
 
-Local technical checks report zero failures or errors. Retained warnings and testing limits are recorded in [QUALITY.md](QUALITY.md). This is an **independent release, not a Google Fonts approval or catalog listing**.
+Activate it (`.venv\Scripts\Activate.ps1` on Windows, or `source .venv/bin/activate` on macOS/Linux), then run:
 
-## Support
+```text
+python -m pip install -r requirements.txt
+python sources/build.py
+```
 
-The font is provided as-is. **No ongoing user support, updates or repository maintenance are promised.** Others may modify and redistribute it under OFL 1.1.
+The authoritative editable source is `sources/Aurethalen.ufo`. Builds produce the desktop TTF and WOFF2 files without overwriting that master. Historical derivation inputs are retained in `sources/derivation`; their earlier font names describe project history.
 
-The Gilded Threshold
+## Creation history and checks
+
+The initial lettering image was generated using Microsoft Edge's AI theme generator from the owner's description. AI assistance was also used for tracing, added-character construction, engineering and documentation. See [source provenance](documentation/SOURCE-PROVENANCE.md). The studio emblem was generated with ChatGPT from the owner's descriptions without supplied references, then extracted from the approved print cover for the profile PNG; see its [provenance](documentation/designer-profile/PROVENANCE.md).
+
+The latest local universal and Google Fonts checks report no failures or errors. Retained warnings, online-check limits and platform limitations are described in [QUALITY.md](documentation/QUALITY.md). Checks are diagnostics, not Google Fonts acceptance.
+
+## Support and onboarding
+
+The font is offered as-is without ongoing user support. The owner has clarified the following Google Fonts participation scope:
+
+> I am available to actively maintain and update the repository throughout the onboarding and review process to address any QA or FontBakery issues. Once the typeface is published as a completed release, I do not plan to provide ongoing feature development or active long-term maintenance, though the repository includes full editable source files under the SIL Open Font License so the community or Google Fonts team can apply future fixes if needed.
+
+The availability of editable sources permits future fixes by others; it does not mean another maintainer has agreed to provide them. Google Fonts review is pending. Replies can be made on the [onboarding issue](https://github.com/google/fonts/issues/11304). No public contact email is provided.
+
+## Studio
+
+<p>The Gilded Threshold is an independent creative studio and type foundry focused on expressive display typography and illustrated print projects. Drawing on classical serif traditions, celestial imagery, and storybook influences, the studio pairs ornate flourishes with carefully considered structure. Its debut typeface, Aurethalen, brings that approach to book covers, titles, packaging, and imaginative storytelling. The studio develops open-source typography to give authors, designers, and makers distinctive tools for their work. Beyond type design, its practice includes original tarot decks, artistic print editions, and mythic visual art.</p>
+
