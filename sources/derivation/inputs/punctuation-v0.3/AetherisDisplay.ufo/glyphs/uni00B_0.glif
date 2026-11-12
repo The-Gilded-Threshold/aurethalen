@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00B0" format="2">
+  <advance width="330"/>
+  <unicode hex="00B0"/>
+  <note>
+New punctuation designed to accompany the original lettering.
+</note>
+  <outline>
+    <contour>
+      <point x="269.0" y="610.0" type="curve" smooth="yes"/>
+      <point x="269.0" y="552.5623860208"/>
+      <point x="222.4376139792" y="506.0"/>
+      <point x="165.0" y="506.0" type="curve" smooth="yes"/>
+      <point x="107.5623860208" y="506.0"/>
+      <point x="61.0" y="552.5623860208"/>
+      <point x="61.0" y="610.0" type="curve" smooth="yes"/>
+      <point x="61.0" y="667.4376139792"/>
+      <point x="107.5623860208" y="714.0"/>
+      <point x="165.0" y="714.0" type="curve" smooth="yes"/>
+      <point x="222.4376139792" y="714.0"/>
+      <point x="269.0" y="667.4376139792"/>
+    </contour>
+    <contour>
+      <point x="230.0" y="610.0" type="curve" smooth="yes"/>
+      <point x="230.0" y="651.9736409848"/>
+      <point x="200.898508737" y="686.0"/>
+      <point x="165.0" y="686.0" type="curve" smooth="yes"/>
+      <point x="129.101491263" y="686.0"/>
+      <point x="100.0" y="651.9736409848"/>
+      <point x="100.0" y="610.0" type="curve" smooth="yes"/>
+      <point x="100.0" y="568.0263590152"/>
+      <point x="129.101491263" y="534.0"/>
+      <point x="165.0" y="534.0" type="curve" smooth="yes"/>
+      <point x="200.898508737" y="534.0"/>
+      <point x="230.0" y="568.0263590152"/>
+    </contour>
+  </outline>
+</glyph>

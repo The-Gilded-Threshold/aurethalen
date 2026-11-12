@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2044" format="2">
+  <advance width="320"/>
+  <unicode hex="2044"/>
+  <note>
+New punctuation designed to accompany the original lettering.
+</note>
+  <outline>
+    <contour>
+      <point x="-52.0" y="-54.0" type="line"/>
+      <point x="349.0" y="749.0" type="line"/>
+      <point x="375.0" y="744.0" type="line"/>
+      <point x="-23.0" y="-65.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
