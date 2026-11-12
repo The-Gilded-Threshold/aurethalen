@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wdieresis" format="2">
+  <advance width="814.0"/>
+  <unicode hex="1E84"/>
+  <anchor x="304.43589743589746" y="894.2890472412109" name="top"/>
+  <anchor x="304.43589743589746" y="0.0" name="bottom"/>
+  <anchor x="639.9418266757598" y="-3.6071420347717273" name="ogonek"/>
+  <anchor x="963.383056640625" y="739.907444882248" name="side"/>
+  <outline>
+    <component base="uni0057"/>
+    <component base="dieresiscomb.case" xOffset="304.43589743589746" yOffset="772.4590454101562"/>
+  </outline>
+</glyph>
