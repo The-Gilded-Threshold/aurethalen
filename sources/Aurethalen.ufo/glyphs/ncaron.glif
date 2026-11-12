@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncaron" format="2">
+  <advance width="418.0"/>
+  <unicode hex="0148"/>
+  <anchor x="261.5518532965114" y="692.86083984375" name="top"/>
+  <anchor x="261.5518532965114" y="0.0" name="bottom"/>
+  <anchor x="425.28335134380825" y="-8.127856039076457" name="ogonek"/>
+  <anchor x="433.41815185546875" y="296.7175435154117" name="side"/>
+  <outline>
+    <component base="uni006E"/>
+    <component base="caroncomb" xOffset="261.5518532965114" yOffset="492.86083984375"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction.rule" format="2">
+  <advance width="240.0"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="-25.0" type="line"/>
+      <point x="283.0" y="735.0" type="line"/>
+      <point x="308.0" y="735.0" type="line"/>
+      <point x="25.0" y="-25.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.sub" format="2">
+  <advance width="170.0"/>
+  <unicode hex="2081"/>
+  <outline>
+    <component base="uni0031" xScale="0.59" yScale="0.59" xOffset="15.0" yOffset="-155.0"/>
+  </outline>
+</glyph>
