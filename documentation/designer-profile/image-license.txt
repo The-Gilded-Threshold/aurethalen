@@ -1,0 +1,29 @@
+The Gilded Threshold lantern-and-arch profile image
+
+The owner licenses the 300x300 PNG named thegildedthreshold.png and its identical
+submission copies under Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0).
+
+License: https://creativecommons.org/licenses/by-sa/4.0/
+Legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
+Attribution: "The Gilded Threshold lantern-and-arch profile image by
+The Gilded Threshold, licensed under CC BY-SA 4.0."
+Project: https://github.com/The-Gilded-Threshold/aurethalen
+
+Scope: this profile PNG appears in documentation/designer-profile in the local
+source repository and designer-profile in the local submission draft. Its SHA256
+is b8409af097fa35f9382aaa6328c27633bc4f1c7f453edfb6b7ec28e941b4bc8b.
+
+The owner reports that ChatGPT created the original emblem from the owner's
+descriptions, without reference material or other parties. This profile PNG was
+extracted from the owner's approved rear-cover PDF, with a dark-green background
+and circular-crop padding. No new AI image generation was used for that export.
+
+Retain attribution and the license link, indicate modifications, and apply the
+license's ShareAlike terms to distributed adaptations. The linked legal code
+controls. This grant does not cover the entire tarot cover, other studio artwork,
+the superseded moon-and-arch draft, or the extracted/master working images.
+The Aurethalen font remains licensed separately under SIL Open Font License 1.1.
+
+The owner approved this grant on November 12, 2026. No files have been uploaded
+or published and no public designer-profile registration has been made.
