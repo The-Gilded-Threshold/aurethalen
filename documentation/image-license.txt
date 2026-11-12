@@ -1,0 +1,35 @@
+Aurethalen specimen images
+Copyright 2026 The Gilded Threshold
+
+The following specimen images are licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0):
+
+  aurethalen.png
+  accents-and-ligatures.png
+  alphabet-and-figures.png
+
+License: https://creativecommons.org/licenses/by-sa/4.0/
+Legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
+
+Attribution: "Aurethalen specimen images by The Gilded Threshold,
+licensed under CC BY-SA 4.0."
+Project: https://github.com/The-Gilded-Threshold/aurethalen
+
+These images appear in documentation/article in the source repository and
+ofl/aurethalen/article in the local submission draft. The identical lead-image
+copy at documentation/specimen.png is included in this image license.
+
+When sharing, retain attribution and the license link, indicate modifications,
+and license adaptations under CC BY-SA 4.0 or a compatible license as permitted
+by its terms. The linked legal code controls.
+
+This notice covers only these specimen images and their identical copies.
+The Aurethalen font software remains under SIL Open Font License 1.1; see OFL.txt.
+Historical diagnostic images and other documents are outside this image grant.
+
+The project owner approved this image license on November 12, 2026.
+Files remain local and unpublished. No repository visibility change or upload
+is authorized by this notice. The project URL identifies the private upstream;
+it has not been contacted or verified as public.
+
+Separate owner-approved profile-image grant: the lantern-and-arch thegildedthreshold.png is also licensed under CC BY-SA 4.0. See designer-profile/image-license.txt for its attribution, provenance and exact scope. The full tarot cover and other studio artwork are outside this grant.
