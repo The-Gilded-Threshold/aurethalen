@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rcaron" format="2">
+  <advance width="606.0"/>
+  <unicode hex="0158"/>
+  <anchor x="363.71794871794873" y="928.6031265258789" name="top"/>
+  <anchor x="363.71794871794873" y="0.0" name="bottom"/>
+  <anchor x="634.6640536313919" y="1.1743818097606713" name="ogonek"/>
+  <anchor x="509.189697265625" y="577.1332111374101" name="side"/>
+  <outline>
+    <component base="uni0052"/>
+    <component base="caroncomb.case" xOffset="363.71794871794873" yOffset="762.703125"/>
+  </outline>
+</glyph>

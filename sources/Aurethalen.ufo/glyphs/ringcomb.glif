@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb" format="2">
+  <unicode hex="030A"/>
+  <anchor x="0" y="0" name="_top"/>
+  <anchor x="0" y="206.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="77.0" y="84.0" type="curve" smooth="yes"/>
+      <point x="77.0" y="41.47407531738281"/>
+      <point x="42.52592468261719" y="7.0"/>
+      <point x="0.0" y="7.0" type="curve" smooth="yes"/>
+      <point x="-42.52592468261719" y="7.0"/>
+      <point x="-77.0" y="41.47407531738281"/>
+      <point x="-77.0" y="84.0" type="curve" smooth="yes"/>
+      <point x="-77.0" y="126.52592468261719"/>
+      <point x="-42.52592468261719" y="161.0"/>
+      <point x="0.0" y="161.0" type="curve" smooth="yes"/>
+      <point x="42.52592468261719" y="161.0"/>
+      <point x="77.0" y="126.52592468261719"/>
+    </contour>
+    <contour>
+      <point x="43.0" y="84.0" type="curve" smooth="yes"/>
+      <point x="43.0" y="111.06195068359375"/>
+      <point x="23.74824333190918" y="133.0"/>
+      <point x="0.0" y="133.0" type="curve" smooth="yes"/>
+      <point x="-23.74824333190918" y="133.0"/>
+      <point x="-43.0" y="111.06195068359375"/>
+      <point x="-43.0" y="84.0" type="curve" smooth="yes"/>
+      <point x="-43.0" y="56.938045501708984"/>
+      <point x="-23.74824333190918" y="35.0"/>
+      <point x="0.0" y="35.0" type="curve" smooth="yes"/>
+      <point x="23.74824333190918" y="35.0"/>
+      <point x="43.0" y="56.938045501708984"/>
+    </contour>
+  </outline>
+</glyph>

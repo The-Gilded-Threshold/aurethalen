@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek" format="2">
+  <advance width="593.0"/>
+  <unicode hex="0172"/>
+  <anchor x="324.05524582775115" y="769.5933837890625" name="top"/>
+  <anchor x="477.5765597954705" y="-165.22332878702335" name="bottom"/>
+  <anchor x="477.5765597954705" y="35.92279991034987" name="ogonek"/>
+  <anchor x="660.3655395507812" y="593.0683462138791" name="side"/>
+  <outline>
+    <component base="uni0055"/>
+    <component base="ogonekcomb" xOffset="477.5765597954705" yOffset="35.92279991034987"/>
+  </outline>
+</glyph>

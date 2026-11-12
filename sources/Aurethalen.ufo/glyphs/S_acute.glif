@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sacute" format="2">
+  <advance width="516.0"/>
+  <unicode hex="015A"/>
+  <anchor x="280.6954227812394" y="941.3252944946289" name="top"/>
+  <anchor x="280.6954227812394" y="0.0" name="bottom"/>
+  <anchor x="445.68605606448693" y="14.930814308618395" name="ogonek"/>
+  <anchor x="552.8521118164062" y="594.5497426351589" name="side"/>
+  <outline>
+    <component base="uni0053"/>
+    <component base="acutecomb.case" xOffset="280.6954227812394" yOffset="773.8652954101562"/>
+  </outline>
+</glyph>
